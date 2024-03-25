@@ -20,7 +20,7 @@ struct View_Authors: View {
                     .font(.custom("AvenirNext-Bold", size: 38))
                     .border(Color("ButtonBorder"), width: 5)
                     .foregroundStyle(.white)
-                    .padding(.bottom, 35)
+                    .padding(.bottom, 30)
             }
         }
     }
