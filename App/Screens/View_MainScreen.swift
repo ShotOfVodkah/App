@@ -20,7 +20,6 @@ struct View_MainScreen: View {
                     .background(Color("ButtonColor"))
                     .font(.custom("AvenirNext-Bold", size: 38))
                     .border(Color("ButtonBorder"), width: 5)
-                    .cornerRadius(10)
                     .foregroundStyle(.white)
                     .padding(.bottom, 35)
                 
