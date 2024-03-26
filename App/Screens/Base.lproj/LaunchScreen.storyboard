@@ -35,7 +35,7 @@
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" name="BackgroundColor"/>
+                        <color key="backgroundColor" name="LaunchBackground"/>
                         <color key="tintColor" systemColor="secondarySystemGroupedBackgroundColor"/>
                     </view>
                 </viewController>
@@ -47,8 +47,8 @@
     <resources>
         <image name="HappyShutBoy" width="1190" height="2480"/>
         <image name="HappyShutGirl" width="1190" height="2480"/>
-        <namedColor name="BackgroundColor">
-            <color red="0.0" green="0.39889955520629883" blue="1" alpha="0.33000000000000002" colorSpace="custom" customColorSpace="sRGB"/>
+        <namedColor name="LaunchBackground">
+            <color red="0.054901964960000001" green="0.1294117719" blue="0.31764706970000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
         </namedColor>
         <systemColor name="secondarySystemGroupedBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
