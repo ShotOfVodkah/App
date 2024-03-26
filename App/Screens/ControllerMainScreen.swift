@@ -28,7 +28,7 @@ class ControllerMainScreen: UIViewController {
             label.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant: 65),
             label.centerXAnchor.constraint(equalTo: view.centerXAnchor),
             label.widthAnchor.constraint(equalToConstant: 350),
-            label.heightAnchor.constraint(equalToConstant: 90)
+            label.heightAnchor.constraint(equalToConstant: 110)
         ])
         
         let buttonTitles = ["Новая игра", "Загрузить", "Настройки", "Об авторах", "Выход"]
@@ -57,15 +57,20 @@ class ControllerMainScreen: UIViewController {
     @objc func buttonTapped(_ sender: UIButton) {
         switch sender.title(for: .normal) {
         case "Новая игра":
-            print("Start")
+            let vc = ControllerBuildChar()
+            vc.modalPresentationStyle = .fullScreen
+            self.present(vc, animated: true, completion: nil)
         case "Загрузить":
-            print("Load")
+            print("Load") //должно отправлять на последнее сохранение
         case "Настройки":
-            print("Settings")
+            let vc = ControllerSettings()
+            vc.modalPresentationStyle = .fullScreen
+            self.present(vc, animated: true, completion: nil)
         case "Об авторах":
-            print("About Authors")
+            let vc = ControllerAuthors()
+            self.present(vc, animated: true, completion: nil)
         case "Выход":
-            print("Exit")
+            print("Exit") //полностью выход из игры
         default:
             break
         }
