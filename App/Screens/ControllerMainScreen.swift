@@ -45,7 +45,7 @@ class ControllerMainScreen: UIViewController {
             button.translatesAutoresizingMaskIntoConstraints = false
             button.addTarget(self, action: #selector(buttonTapped(_:)), for: .touchUpInside)
             view.addSubview(button)
-                    
+            
             NSLayoutConstraint.activate([
                 button.topAnchor.constraint(equalTo: label.bottomAnchor, constant: CGFloat(index) * 88 + 65),
                 button.centerXAnchor.constraint(equalTo: view.centerXAnchor),
@@ -54,14 +54,15 @@ class ControllerMainScreen: UIViewController {
             ])
         }
     }
+    
     @objc func buttonTapped(_ sender: UIButton) {
         switch sender.title(for: .normal) {
         case "Новая игра":
             let vc = ControllerBuildChar()
             vc.modalPresentationStyle = .fullScreen
             self.present(vc, animated: true, completion: nil)
-        case "Загрузить":
-            print("Load") //должно отправлять на последнее сохранение
+        case "Загрузить": //должно отправлять на последнее сохранение
+            print("Load")
         case "Настройки":
             let vc = ControllerSettings()
             vc.modalPresentationStyle = .fullScreen
@@ -69,10 +70,11 @@ class ControllerMainScreen: UIViewController {
         case "Об авторах":
             let vc = ControllerAuthors()
             self.present(vc, animated: true, completion: nil)
-        case "Выход":
-            print("Exit") //полностью выход из игры
+        case "Выход": //кнопка работает на выход, но надо будет проверить, что действительно все данные сохраняются
+            UIControl().sendAction(#selector(NSXPCConnection.suspend), to: UIApplication.shared, for: nil)
         default:
             break
         }
     }
 }
+

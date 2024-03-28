@@ -74,7 +74,7 @@ class ControllerBuildChar: UIViewController {
         let mainStack = UIStackView(arrangedSubviews: [label, username, genderlabel, genderselection, agelabel, datePicker, buttonStack])
         mainStack.axis = .vertical
         mainStack.alignment = .center
-        mainStack.spacing = 10
+        mainStack.spacing = 13
         mainStack.translatesAutoresizingMaskIntoConstraints = false
         view.addSubview(mainStack)
         
@@ -84,8 +84,8 @@ class ControllerBuildChar: UIViewController {
             username.widthAnchor.constraint(equalToConstant: 320),
             username.heightAnchor.constraint(equalToConstant: 60),
             buttonStack.widthAnchor.constraint(equalToConstant: 350),
-            menuButton.heightAnchor.constraint(equalToConstant: 80),
-            nextButton.heightAnchor.constraint(equalToConstant: 80),
+            menuButton.heightAnchor.constraint(equalToConstant: 70),
+            nextButton.heightAnchor.constraint(equalToConstant: 70),
             menuButton.widthAnchor.constraint(equalTo: nextButton.widthAnchor)
         ])
     }
@@ -117,8 +117,7 @@ class ControllerBuildChar: UIViewController {
         return label
     }
     
-    //нет обработки не введенного имени
-    @objc func saveName(_ sender: UITextField) {
+    @objc func saveName(_ sender: UITextField) { //нет обработки не введенного имени
         UserDefaults.standard.set(sender.text, forKey: nameKey)
         if let enteredName = sender.text, !enteredName.isEmpty {
             UserDefaults.standard.set(enteredName, forKey: nameKey)
@@ -133,20 +132,16 @@ class ControllerBuildChar: UIViewController {
         UserDefaults.standard.set(selectedGender, forKey: genderKey)
     }
     
-    //нет обработки не введенного возраста
-    @objc func datePickerValueChanged(_ sender: UIDatePicker) {
+    @objc func datePickerValueChanged(_ sender: UIDatePicker) { //нет обработки не введенного возраста
         UserDefaults.standard.set(sender.date, forKey: birthDateKey)
         print("Selected date:", sender.date)
     }
     
     @objc func backButtonTapped() {
-        let vc = ControllerMainScreen()
-        vc.modalPresentationStyle = .fullScreen
-        self.present(vc, animated: true, completion: nil)
+        self.dismiss(animated: true, completion: nil)
     }
     
-    //сделать переход на начало первой главы
-    @objc func nextButtonTapped() {
+    @objc func nextButtonTapped() { //сделать переход на начало первой главы
         print("Next Button Tapped")
     }
 }
