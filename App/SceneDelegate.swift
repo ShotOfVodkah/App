@@ -5,7 +5,7 @@
 //  Created by Stepan Polyakov on 25.03.2024.
 //
 
-import UIKit
+import UIKit //пизда
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
