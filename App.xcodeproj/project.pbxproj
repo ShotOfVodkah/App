@@ -7,15 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5D2B375F2BB6ADDE003B14E0 /* Assets 2.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D2B375E2BB6ADDE003B14E0 /* Assets 2.xcassets */; };
-		5D2B37622BB6AE2D003B14E0 /* Scenes.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5D2B37602BB6AE2D003B14E0 /* Scenes.xcdatamodeld */; };
-		5D2B37672BB6B205003B14E0 /* ch1_dialogue_m.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D2B37662BB6B205003B14E0 /* ch1_dialogue_m.json */; };
-		5D2B376B2BB6B586003B14E0 /* Choice+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D2B37692BB6B586003B14E0 /* Choice+CoreDataProperties.swift */; };
-		5D2B376D2BB6B8E0003B14E0 /* ch1_choice_m.json in Resources */ = {isa = PBXBuildFile; fileRef = 5D2B376C2BB6B8E0003B14E0 /* ch1_choice_m.json */; };
-		5D2B376F2BB6C111003B14E0 /* Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D2B376E2BB6C110003B14E0 /* Classes.swift */; };
 		5D8AA3EE2BB1904900C6EFEE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8AA3ED2BB1904900C6EFEE /* AppDelegate.swift */; };
 		5D8AA3F02BB1904900C6EFEE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8AA3EF2BB1904900C6EFEE /* SceneDelegate.swift */; };
 		5D8AA3F22BB1904900C6EFEE /* ControllerAgreement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D8AA3F12BB1904900C6EFEE /* ControllerAgreement.swift */; };
+		5D8AA3F72BB1904B00C6EFEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D8AA3F62BB1904B00C6EFEE /* Assets.xcassets */; };
 		5D8AA3FA2BB1904B00C6EFEE /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 5D8AA3F92BB1904B00C6EFEE /* Base */; };
 		7369BDD62BB69F8A00C8C9E6 /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7369BDD52BB69F8A00C8C9E6 /* StorageManager.swift */; };
 		7369BDD82BB69F9000C8C9E6 /* Scene+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7369BDD72BB69F9000C8C9E6 /* Scene+CoreDataProperties.swift */; };
@@ -29,21 +24,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		5D2B375E2BB6ADDE003B14E0 /* Assets 2.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Assets 2.xcassets"; path = "../../../../Downloads/Assets 2.xcassets"; sourceTree = "<group>"; };
-		5D2B37612BB6AE2D003B14E0 /* Scenes.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Scenes.xcdatamodel; sourceTree = "<group>"; };
-		5D2B37662BB6B205003B14E0 /* ch1_dialogue_m.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = ch1_dialogue_m.json; path = ../../../../Downloads/ch1_dialogue_m.json; sourceTree = "<group>"; };
-		5D2B37692BB6B586003B14E0 /* Choice+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Choice+CoreDataProperties.swift"; sourceTree = "<group>"; };
-		5D2B376C2BB6B8E0003B14E0 /* ch1_choice_m.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = ch1_choice_m.json; path = ../../../../Downloads/chapters/ch1_choice_m.json; sourceTree = "<group>"; };
-		5D2B376E2BB6C110003B14E0 /* Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Classes.swift; sourceTree = "<group>"; };
-		5D2B37722BB6C134003B14E0 /* Scenes.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Scenes.xcdatamodel; sourceTree = "<group>"; };
 		5D8AA3EA2BB1904900C6EFEE /* App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = App.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D8AA3ED2BB1904900C6EFEE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5D8AA3EF2BB1904900C6EFEE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		5D8AA3F12BB1904900C6EFEE /* ControllerAgreement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllerAgreement.swift; sourceTree = "<group>"; };
+		5D8AA3F62BB1904B00C6EFEE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = /Users/alexandra.gritsaenko/Documents/App/App/Assets.xcassets; sourceTree = "<absolute>"; };
 		5D8AA3F92BB1904B00C6EFEE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D8AA3FB2BB1904B00C6EFEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7369BDD52BB69F8A00C8C9E6 /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 		7369BDD72BB69F9000C8C9E6 /* Scene+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Scene+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		7369BDDA2BB69F9D00C8C9E6 /* ch1_dialogue_m.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ch1_dialogue_m.json; sourceTree = "<group>"; };
+		7369BDDB2BB69F9E00C8C9E6 /* ch1_choice_m.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ch1_choice_m.json; sourceTree = "<group>"; };
+		7369BDDD2BB69FA300C8C9E6 /* Scenes.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Scenes.xcdatamodel; sourceTree = "<group>"; };
 		7369BDE02BB69FE900C8C9E6 /* JSON decode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "JSON decode.swift"; sourceTree = "<group>"; };
 		738CD7D92BB301B70058062F /* ControllerMainScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllerMainScreen.swift; sourceTree = "<group>"; };
 		738CD7DB2BB31E4D0058062F /* ControllerBuildChar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllerBuildChar.swift; sourceTree = "<group>"; };
@@ -64,19 +56,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5D2B37702BB6C124003B14E0 /* DB */ = {
-			isa = PBXGroup;
-			children = (
-				5D8AA3EF2BB1904900C6EFEE /* SceneDelegate.swift */,
-				5D2B37692BB6B586003B14E0 /* Choice+CoreDataProperties.swift */,
-				7369BDD72BB69F9000C8C9E6 /* Scene+CoreDataProperties.swift */,
-				7369BDD52BB69F8A00C8C9E6 /* StorageManager.swift */,
-				7369BDE02BB69FE900C8C9E6 /* JSON decode.swift */,
-				5D2B37712BB6C134003B14E0 /* Scenes.xcdatamodeld */,
-			);
-			path = DB;
-			sourceTree = "<group>";
-		};
 		5D8AA3E12BB1904900C6EFEE = {
 			isa = PBXGroup;
 			children = (
@@ -96,10 +75,12 @@
 		5D8AA3EC2BB1904900C6EFEE /* App */ = {
 			isa = PBXGroup;
 			children = (
-				5D2B37602BB6AE2D003B14E0 /* Scenes.xcdatamodeld */,
-				5D2B37702BB6C124003B14E0 /* DB */,
-				5D2B376E2BB6C110003B14E0 /* Classes.swift */,
 				5D8AA3ED2BB1904900C6EFEE /* AppDelegate.swift */,
+				5D8AA3EF2BB1904900C6EFEE /* SceneDelegate.swift */,
+				7369BDD72BB69F9000C8C9E6 /* Scene+CoreDataProperties.swift */,
+				7369BDD52BB69F8A00C8C9E6 /* StorageManager.swift */,
+				7369BDE02BB69FE900C8C9E6 /* JSON decode.swift */,
+				7369BDDC2BB69FA300C8C9E6 /* Scenes.xcdatamodeld */,
 				7369BDD92BB69F9D00C8C9E6 /* Chapters */,
 				738CD7B52BB2B5DA0058062F /* Resources */,
 				738CD7A82BB1E4AF0058062F /* Screens */,
@@ -110,8 +91,8 @@
 		7369BDD92BB69F9D00C8C9E6 /* Chapters */ = {
 			isa = PBXGroup;
 			children = (
-				5D2B376C2BB6B8E0003B14E0 /* ch1_choice_m.json */,
-				5D2B37662BB6B205003B14E0 /* ch1_dialogue_m.json */,
+				7369BDDB2BB69F9E00C8C9E6 /* ch1_choice_m.json */,
+				7369BDDA2BB69F9D00C8C9E6 /* ch1_dialogue_m.json */,
 			);
 			path = Chapters;
 			sourceTree = "<group>";
@@ -134,7 +115,7 @@
 			isa = PBXGroup;
 			children = (
 				5D8AA3FB2BB1904B00C6EFEE /* Info.plist */,
-				5D2B375E2BB6ADDE003B14E0 /* Assets 2.xcassets */,
+				5D8AA3F62BB1904B00C6EFEE /* Assets.xcassets */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -203,10 +184,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5D2B37672BB6B205003B14E0 /* ch1_dialogue_m.json in Resources */,
-				5D2B375F2BB6ADDE003B14E0 /* Assets 2.xcassets in Resources */,
+				5D8AA3F72BB1904B00C6EFEE /* Assets.xcassets in Resources */,
 				5D8AA3FA2BB1904B00C6EFEE /* Base in Resources */,
-				5D2B376D2BB6B8E0003B14E0 /* ch1_choice_m.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,11 +200,8 @@
 				738CD7DC2BB31E4D0058062F /* ControllerBuildChar.swift in Sources */,
 				7369BDD62BB69F8A00C8C9E6 /* StorageManager.swift in Sources */,
 				738CD7DA2BB301B70058062F /* ControllerMainScreen.swift in Sources */,
-				5D2B37622BB6AE2D003B14E0 /* Scenes.xcdatamodeld in Sources */,
-				5D2B376B2BB6B586003B14E0 /* Choice+CoreDataProperties.swift in Sources */,
 				738CD7E82BB3700E0058062F /* ControllerAuthors.swift in Sources */,
 				5D8AA3F22BB1904900C6EFEE /* ControllerAgreement.swift in Sources */,
-				5D2B376F2BB6C111003B14E0 /* Classes.swift in Sources */,
 				5D8AA3EE2BB1904900C6EFEE /* AppDelegate.swift in Sources */,
 				5D8AA3F02BB1904900C6EFEE /* SceneDelegate.swift in Sources */,
 				7369BDD82BB69F9000C8C9E6 /* Scene+CoreDataProperties.swift in Sources */,
@@ -464,25 +440,14 @@
 /* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
-		5D2B37602BB6AE2D003B14E0 /* Scenes.xcdatamodeld */ = {
+		7369BDDC2BB69FA300C8C9E6 /* Scenes.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				5D2B37612BB6AE2D003B14E0 /* Scenes.xcdatamodel */,
+				7369BDDD2BB69FA300C8C9E6 /* Scenes.xcdatamodel */,
 			);
-			currentVersion = 5D2B37612BB6AE2D003B14E0 /* Scenes.xcdatamodel */;
+			currentVersion = 7369BDDD2BB69FA300C8C9E6 /* Scenes.xcdatamodel */;
 			name = Scenes.xcdatamodeld;
-			path = /Users/shotofvodkah/Downloads/Scenes.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-		5D2B37712BB6C134003B14E0 /* Scenes.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				5D2B37722BB6C134003B14E0 /* Scenes.xcdatamodel */,
-			);
-			currentVersion = 5D2B37722BB6C134003B14E0 /* Scenes.xcdatamodel */;
-			name = Scenes.xcdatamodeld;
-			path = /Users/shotofvodkah/Documents/App/App/DB/Scenes.xcdatamodeld;
+			path = /Users/alexandra.gritsaenko/Documents/App/App/Scenes.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};

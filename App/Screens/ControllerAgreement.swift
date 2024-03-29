@@ -25,18 +25,6 @@ class ControllerAgreement: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.setupUI()
-        
-        SceneManager.shared.deleteAllScenes()
-        var scenes: [scene] = scene.allScenes
-        for scene in scenes {
-            SceneManager.shared.createScene(scene.id, background: scene.background, character: scene.character, emotion: scene.emotion, next: scene.next, sentence: scene.sentence)
-        }
-        var choices: [choice] = choice.allChoices
-        for choice in choices {
-            SceneManager.shared.createChoice(id: choice.id , c1: choice.c1, c2: choice.c2, c3: choice.c3, c4: choice.c4, n1: choice.n1, n2: choice.n2, n3: choice.n3, n4: choice.n4)
-        }
-                    
-        
         self.button.addTarget(self, action: #selector(didTapButton), for: .touchUpInside)
     }
     
