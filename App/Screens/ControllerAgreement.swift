@@ -25,6 +25,8 @@ class ControllerAgreement: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.setupUI()
+                    
+        
         self.button.addTarget(self, action: #selector(didTapButton), for: .touchUpInside)
     }
     

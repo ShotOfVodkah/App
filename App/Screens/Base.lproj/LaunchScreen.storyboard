@@ -48,7 +48,7 @@
         <image name="HappyShutBoy" width="1190" height="2480"/>
         <image name="HappyShutGirl" width="1190" height="2480"/>
         <namedColor name="LaunchBackground">
-            <color red="0.054901964960000001" green="0.1294117719" blue="0.31764706970000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+            <color red="0.054999999701976776" green="0.1289999932050705" blue="0.31799998879432678" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
         </namedColor>
         <systemColor name="secondarySystemGroupedBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
