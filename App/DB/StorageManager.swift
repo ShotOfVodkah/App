@@ -45,8 +45,44 @@ public final class SceneManager: NSObject {
         }
     }
     
-    public func deleteAll() {
+    public func createChoice(id: Int16, c1: String, c2: String, c3: String, c4: String, n1: Int16, n2: Int16, n3: Int16, n4: Int16) {
+        guard let entityDescription = NSEntityDescription.entity(forEntityName: "Choice", in: context) else {
+            return
+        }
+        let newEntity = Choice(entity: entityDescription, insertInto: context)
+        newEntity.id = id
+        newEntity.c1 = c1
+        newEntity.c2 = c2
+        newEntity.c3 = c3
+        newEntity.c4 = c4
+        newEntity.n1 = n1
+        newEntity.n2 = n2
+        newEntity.n3 = n3
+        newEntity.n4 = n4
+        
+        appDelegate.saveContext()
+    }
+
+    public func fetchChoice(byID id: Int16) -> Choice? {
+        let fetchRequest = NSFetchRequest<NSFetchRequestResult>(entityName: "Choice")
+        fetchRequest.predicate = NSPredicate(format: "id == %d", id)
+        do {
+            guard let entities = try? context.fetch(fetchRequest) as? [Choice] else { return nil }
+            return entities.first
+        }
+    }
+
+    public func deleteAllScenes() {
         let fetchRequest = NSFetchRequest<NSFetchRequestResult>(entityName: "Scene")
+        do {
+            let scenes = try? context.fetch(fetchRequest) as? [Scene]
+            scenes?.forEach{context.delete($0)}
+        }
+        appDelegate.saveContext()
+    }
+    
+    public func deleteAllChoices() {
+        let fetchRequest = NSFetchRequest<NSFetchRequestResult>(entityName: "Choice")
         do {
             let scenes = try? context.fetch(fetchRequest) as? [Scene]
             scenes?.forEach{context.delete($0)}

@@ -15,6 +15,14 @@ struct scene: Codable {
     static let sample: scene = allScenes[0]
 }
 
+struct choice: Codable {
+    var id, n1,n2,n3,n4: Int16;
+    var c1,c2,c3,c4: String;
+    
+    static let allChoices: [choice] = Bundle.main.decode(file: "ch1_choice_m.json")
+    static let sample: choice = allChoices[0]
+}
+
 extension Bundle {
     func decode<T: Decodable>(file: String) -> T {
         guard let url = self.url(forResource: file, withExtension: nil) else {
