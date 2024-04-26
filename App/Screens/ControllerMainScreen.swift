@@ -14,12 +14,13 @@ class ControllerMainScreen: UIViewController {
         view.backgroundColor = UIColor(named: "BackgroundColor")
         
         let label = UILabel()
-        label.text = "Game Name"
+        label.text = "Фидес: Сетевые приключения"
         label.font = UIFont(name: "AvenirNext-Bold", size: 38)
         label.textAlignment = .center
         label.textColor = .white
         label.backgroundColor = UIColor(named: "ButtonColor")
         label.layer.borderWidth = 5
+        label.numberOfLines = 0
         label.layer.borderColor = UIColor(named: "ButtonBorder")?.cgColor
         label.translatesAutoresizingMaskIntoConstraints = false
         view.addSubview(label)
@@ -61,8 +62,10 @@ class ControllerMainScreen: UIViewController {
             let vc = ControllerBuildChar()
             vc.modalPresentationStyle = .fullScreen
             self.present(vc, animated: true, completion: nil)
-        case "Загрузить": //должно отправлять на последнее сохранение
-            print("Load")
+        case "Загрузить":
+            let vc = ControllerLoad()
+            vc.modalPresentationStyle = .fullScreen
+            self.present(vc, animated: true, completion: nil)
         case "Настройки":
             let vc = ControllerSettings()
             vc.modalPresentationStyle = .fullScreen
@@ -70,7 +73,7 @@ class ControllerMainScreen: UIViewController {
         case "Об авторах":
             let vc = ControllerAuthors()
             self.present(vc, animated: true, completion: nil)
-        case "Выход": //кнопка работает на выход, но надо будет проверить, что действительно все данные сохраняются
+        case "Выход":
             UIControl().sendAction(#selector(NSXPCConnection.suspend), to: UIApplication.shared, for: nil)
         default:
             break

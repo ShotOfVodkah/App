@@ -21,7 +21,7 @@ public final class SceneManager: NSObject {
         appDelegate.persistentContainer.viewContext
     }
     
-    public func createScene(_ id: Int16, background: String, character: String, emotion: String, next: Int16, sentence: String) {
+    public func createScene(_ id: Int16, background: String, character: String, emotion: String, next: Int16, sentence: String, on_screen: String) {
         guard let Sceneentitydescription = NSEntityDescription.entity(forEntityName: "Scene", in: context) else {
             return
         }
@@ -32,6 +32,7 @@ public final class SceneManager: NSObject {
         scene.emotion = emotion
         scene.next = next
         scene.sentence = sentence
+        scene.on_screen = on_screen
         
         appDelegate.saveContext()
     }

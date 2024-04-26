@@ -97,8 +97,8 @@ class ControllerSettings: UIViewController {
         self.present(vc, animated: true, completion: nil)
     }
                                          
-    @objc func agreementButtonTapped() { //возможно сделать перекидывание на файл с пользовательским соглашением, либо как-то сделать чтобы не было кнопки согласен/согласна
-        let vc = ControllerAgreement()
+    @objc func agreementButtonTapped() {
+        let vc = ControllerAgreement2()
         self.present(vc, animated: true, completion: nil)
     }
     

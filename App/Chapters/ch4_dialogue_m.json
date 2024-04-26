@@ -1,0 +1,1705 @@
+[
+        {
+            "id": 0,
+            "sentence": "ГЛАВА 4",
+            "on_screen": "Sasha",
+            "character": "",
+            "emotion": "happy",
+            "background": "",
+            "next": 1
+        },
+        {
+            "id": 1,
+            "sentence": "В картинной галерее было темно и даже немного жутко.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "dream",
+            "next": 2
+          },
+        {
+            "id": 2,
+            "sentence": "Я застыл, рассматривая картины. С полотен на меня смотрели все мои друзья, семья и знакомые.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "dream",
+            "next": 3
+          },
+        {
+            "id": 3,
+            "sentence": "Их лица смотрели на меня зло, даже осуждающе, словно хотели меня наказать за мои ошибки. Я почувствовал, что нужно бежать..",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "dream",
+            "next": 4
+          },
+        {
+            "id": 4,
+            "sentence": "Однако как быстро я ни бежал, глаза с картин продолжали смотреть с осуждением. Внутренний голос говорил “Беги!!!”.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "dream",
+            "next": 5
+          },
+        {
+            "id": 5,
+            "sentence": "Я резко подскочил в кровати, сердце билось так бешено словно я и правда пробежал стометровку с олимпийским рекордом.",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 6
+          },
+        {
+            "id": 6,
+            "sentence": "После такого заснуть не получилось бы, да и до будильника оставалось не больше десяти минут..",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 7
+          },
+        {
+            "id": 7,
+            "sentence": "Я сел на край кровати и попытался в полумраке нащупать тапок ногой. Удача была на моей стороне!",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 8
+          },
+        {
+            "id": 8,
+            "sentence": "На кухне уже привычно суетилась мама.",
+            "character": "Cаша",
+            "on_screen": "Mom",
+            "emotion": "normal",
+            "background": "kitchen",
+            "next": 9
+          },
+        {
+            "id": 9,
+            "sentence": "Доброе утро, Саша! Что-то ты сегодня рано проснулся, садись за стол.",
+            "character": "Мама",
+            "on_screen": "Mom",
+            "emotion": "normal",
+            "background": "kitchen",
+            "next": 10
+          },
+        {
+            "id": 10,
+            "sentence": "Она подвинула ко мне тарелку с бутербродами и чай.",
+            "character": "Cаша",
+            "on_screen": "Mom",
+            "emotion": "normal",
+            "background": "kitchen",
+            "next": 11
+          },
+        {
+            "id": 11,
+            "sentence": "Утро всегда доброе, если начинается с бутербродов. Может и неделя будет хорошей?",
+            "character": "Cаша",
+            "on_screen": "Mom",
+            "emotion": "normal",
+            "background": "kitchen",
+            "next": 12
+          },
+        {
+            "id": 12,
+            "sentence": "На перемене класс привычно гудел. Жаль, что сегодня я забыл наушники дома, теперь приходится всё это слушать.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "school",
+            "next": 13
+          },
+        {
+            "id": 13,
+            "sentence": "В общем гуле особенно выделялся голос Виолетты, она о чём-то горделиво рассказывала своим подружкам.",
+            "character": "Саша",
+            "on_screen": "Violetta",
+            "emotion": "normal",
+            "background": "school",
+            "next": 14
+          },
+        {
+            "id": 14,
+            "sentence": " Да, купил, папа всегда покупает мне то, что я прошу.  Вот на прошлой неделе подарил сони плейстейшен 5 - последняя модель, ещё и в розовом корпусе.",
+            "character": "Виолетта",
+            "on_screen": "Violetta",
+            "emotion": "normal",
+            "background": "school",
+            "next": 15
+          },
+        {
+            "id": 15,
+            "sentence": " Да зачем ей плойка? Ставлю честь своего кота - она даже играть не умеет!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 16
+          },
+        {
+            "id": 16,
+            "sentence": "А мне о таком аппарате остаётся только мечтать. Вряд ли в “Пятёрочке” маме начнут платить миллионы…",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 17
+          },
+        {
+            "id": 17,
+            "sentence": "“Здравствуйте, Марина Владимировна, вот вам чемодан долларов за то, что вы так хорошо выкладываете сливовидные помидоры на прилавок”",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 18
+          },
+        {
+            "id": 18,
+            "sentence": "Я знаю, что она и так старается дать мне самое лучшее!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 19
+          },
+        {
+            "id": 19,
+            "sentence": "Но всё же, плойки мне не видать, особенно после той истории с онлайн курсом. Кажется, мне могла бы помочь только великая удача..",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 20
+          },
+        {
+            "id": 20,
+            "sentence": "На днях я увлеченно смотрел сериал “ Уэнздей”. Его мне посоветовал Равшан. Он  уже давно отправляет мне видео с танцами главной героини.",
+            "character": "Саша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "room",
+            "next": 22
+          },
+        {
+            "id": 21,
+            "sentence": "На днях я увлеченно смотрел сериал “ Уэнздей”. Его мне посоветовал Равшан. Он  уже давно отправляет мне видео с танцами главной героини.",
+            "character": "Саша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 22
+          },
+        {
+            "id": 22,
+            "sentence": "Сюжет был действительно интересен, и персонажи очень глубоко прописаны. Единственный минус - эта надоедливая реклама онлайн-казино “Фишки для малышки”.",
+            "character": "Саша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 23
+          },
+        {
+            "id": 23,
+            "sentence": " Перед каждой серией нужно было посмотреть целых два рекламных ролика. Вот и сейчас в голове заиграла песня: “Крути колесо вперед, миллион к тебе идёт!”",
+            "character": "Саша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 24
+          },
+        {
+            "id": 24,
+            "sentence": "Миллион действительно не помешал бы… Еще и промокоды раздают.",
+            "character": "Саша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 25
+          },
+        {
+            "id": 25,
+            "sentence": "Я набрал в строке поиска “Фишки для малышки”. Первый же сайт оказался тем самым, на котором обещали баснословные деньги за один клик.",
+            "character": "Саша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 26
+          },
+        {
+            "id": 26,
+            "sentence": "На ярком фоне были нарисованы цветные купюры, дорогие автомобили, золотые украшения. В общем, все, что нужно для счастья и беспечной жизни.",
+            "character": "Саша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 28
+          },
+        {
+            "id": 27,
+            "sentence": "На ярком фоне были нарисованы цветные купюры, дорогие автомобили, золотые украшения. В общем, все, что нужно для счастья и беспечной жизни.",
+            "character": "Саша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 28
+          },
+        {
+            "id": 28,
+            "sentence": "Я быстро просмотрел анкету для регистрации. Все кажется довольно прозрачным и понятным, можно было бы попытать удачу!",
+            "character": "Саша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 29
+          },
+        {
+            "id": 29,
+            "sentence": "“Не имей сто рублей, а имей сто друзей”, - в моей голове зародилась идея разделить с друзьями свои будущие богатства. Тем более, если все онлайн-казино строятся на теории вероятности, то кому-то из нас точно должно повезти!",
+            "character": "Саша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 30
+          },
+        {
+            "id": 30,
+            "sentence": "Вот и Полина заходит в класс.!",
+            "character": "Саша",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 31
+          },
+        {
+            "id": 31,
+            "sentence": "Полина, подойди, пожалуйста!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 32
+          },
+        {
+            "id": 32,
+            "sentence": "Опять математику что ли списать хочешь? Я сегодня сама с ГДЗ списывала, ничего не поняла! Хоть бы к доске не вызвали…",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 33
+          },
+        {
+            "id": 33,
+            "sentence": "У меня тут своя математика! Хочешь стать сказочно богатой?",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 34
+          },
+        {
+            "id": 34,
+            "sentence": "А это законно?",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 35
+          },
+        {
+            "id": 35,
+            "sentence": "Конечно, законно! Это, между прочим, хорошее онлайн-казино, с настоящей лицензией!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 36
+          },
+        {
+            "id": 36,
+            "sentence": "Я показал ей экран телефона с обещаниями успеха в один клик. Полина лишь закатила глаза.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 37
+          },
+        {
+            "id": 37,
+            "sentence": "Опять шутишь! А я-то думала, действительно что-то хорошее предлагаешь. Бизнес открыть, например…",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 38
+          },
+        {
+            "id": 38,
+            "sentence": "Полина уже замечталась и ушла в свои мысли, где она возглавляет огромную корпорацию по производству съедобной канцелярии, чтобы грызть сладкие ручки и карандаши на уроках.",
+            "character": "Саша",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 39
+          },
+        {
+            "id": 39,
+            "sentence": "В моей душе затаилась обида, неужели она настолько в меня не верит. Идея-то хорошая.",
+            "character": "Саша",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 40
+          },
+        {
+            "id": 40,
+            "sentence": "А что тут несерьезного? Между прочим, тысяча бонусов при регистрации дается! А если вместе зарегистрируемся, еще больше заработаем!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 41
+          },
+        {
+            "id": 41,
+            "sentence": "Ну ты даешь! Вместе зарегистрируемся, вместе потом будем долги отдавать. Ты в курсе, что все эти казино - мошенничество в чистом виде?!",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "happy",
+            "background": "class",
+            "next": 300
+          },
+        {
+            "id": 42,
+            "sentence": "Да ты просто не хочешь попытать шанс! По-твоему, и домашку списывать это мошенничество?",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 43
+          },
+        {
+            "id": 43,
+            "sentence": "Не веришь? Спроси у Равшана. Может, хоть он тебе объяснит.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "happy",
+            "background": "class",
+            "next": 70
+          },
+        {
+            "id": 44,
+            "sentence": "Может, ты и права!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 45
+          },
+        {
+            "id": 45,
+            "sentence": "Спрошу у Равшана, может, он лучше разберется, кто из нас прав.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 70
+          },
+        {
+            "id": 46,
+            "sentence": "Вот и Полина заходит в класс. С того самого дня, как мы поругались, в классе стало непривычно одиноко.",
+            "character": "Саша",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 47
+          },
+        {
+            "id": 47,
+            "sentence": "Не с кем перекидываться шуточками по дороге в раздевалку, не у кого спросить, что сегодня вкусного дают в столовой… Может, мой план поможет нам помириться?",
+            "character": "Саша",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 48
+          },
+        {
+            "id": 48,
+            "sentence": "Полина, подойди, пожалуйста!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 49
+          },
+        {
+            "id": 49,
+            "sentence": "Списывать не у кого, Виноградов?",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 50
+          },
+        {
+            "id": 50,
+            "sentence": "Да нет, я… Извиниться хотел, понимаешь.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 51
+          },
+        {
+            "id": 51,
+            "sentence": "А кто решил, что мне это интересно?",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "happy",
+            "background": "class",
+            "next": 52
+          },
+        {
+            "id": 52,
+            "sentence": "Я хочу признать свою неправоту. А чтобы ты точно забыла старые обиды, я хочу сделать тебе деловое предложение!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 53
+          },
+        {
+            "id": 53,
+            "sentence": "Руки и сердца?",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 54
+          },
+        {
+            "id": 54,
+            "sentence": "Я показал ей экран телефона с обещаниями успеха в один клик.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 55
+          },
+        {
+            "id": 55,
+            "sentence": "Классная штука, между прочим! Станем сказочно богатыми, а о ссорах даже и не вспомним!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 56
+          },
+        {
+            "id": 56,
+            "sentence": "Я надеюсь, ты шутишь.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 57
+          },
+        {
+            "id": 57,
+            "sentence": "В моей душе затаилась обида, неужели она настолько в меня не верит. Идея-то хорошая.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 58
+          },
+        {
+            "id": 58,
+            "sentence": "А что тут несерьезного? Между прочим, тысяча бонусов при регистрации дается! А если вместе зарегистрируемся, еще больше заработаем!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 59
+          },
+        {
+            "id": 59,
+            "sentence": "Ты же в курсе, что это мошенничество в чистом виде?",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 400
+          },
+        {
+            "id": 60,
+            "sentence": "Ну, не хочешь - не надо. Без тебя разберусь!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "angry",
+            "background": "class",
+            "next": 61
+          },
+        {
+            "id": 61,
+            "sentence": "Полина с отстраненным видом села за парту к своей новой соседке. Больше никогда в жизни ей ничего не скажу, ни единого слова!",
+            "character": "Саша",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 70
+          },
+        {
+            "id": 62,
+            "sentence": "Может, ты и права. Надо разобраться!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 63
+          },
+        {
+            "id": 63,
+            "sentence": "Спроси у Равшана, может, он что-то подскажет.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 64
+          },
+        {
+            "id": 64,
+            "sentence": "Полина задумчиво вертела в руках брелок от сумки, словно раздумывая. Затем бросила взгляд на свое прежнее, уже свободное место.",
+            "character": "Саша",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 65
+          },
+        {
+            "id": 65,
+            "sentence": "У тебя не занято?",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 66
+          },
+        {
+            "id": 66,
+            "sentence": "В душе словно что-то снова оказалось на своем месте.",
+            "character": "Саша",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 67
+          },
+        {
+            "id": 67,
+            "sentence": "На самом деле, занято. Сидит тут одна одноклассница, в мошенничестве хорошо разбирается!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 68
+          },
+        {
+            "id": 68,
+            "sentence": "Только попробуй хоть раз списать попросить!",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "class",
+            "next": 69
+          },
+        {
+            "id": 69,
+            "sentence": "Все хорошо, что хорошо заканчивается. А про казино у Равшана я все-таки спрошу!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "class",
+            "next": 70
+          },
+        {
+            "id": 70,
+            "sentence": "После школы мы с Равшаном шли на кружок по гитаре, обсуждая последнюю серию ставшего уже любимым сериала.",
+            "character": "Саша",
+            "on_screen": "Ravshan",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 71
+          },
+        {
+            "id": 71,
+            "sentence": "А тебе тоже эта реклама с онлайн-казино попадается?",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 72
+          },
+        {
+            "id": 72,
+            "sentence": "Ага! Я уже планирую купить платную подписку, чтобы без рекламы сериалы смотреть, да и фильмы тоже.?",
+            "character": "Равшан",
+            "on_screen": "Ravshan",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 73
+          },
+        {
+            "id": 73,
+            "sentence": "А в онлайн-казино ты никогда не хотел зарегистрироваться? Попытать удачу, например, выиграть что-нибудь. А потом сразу же удалить!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 74
+          },
+        {
+            "id": 74,
+            "sentence": "Да ты что, там так не бывает. Мне брат рассказывал про своего друга, который ввел туда пароль от карты, а потом у него все деньги списались.",
+            "character": "Равшан",
+            "on_screen": "Ravshan",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 75
+          },
+        {
+            "id": 75,
+            "sentence": " Мошенничество, значит…",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 76
+          },
+        {
+            "id": 76,
+            "sentence": "Мошенничество в сети - это когда кто-то использует интернет, чтобы обмануть других людей и получить их деньги или личную информацию.",
+            "character": "Равшан",
+            "on_screen": "Ravshan",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 77
+          },
+        {
+            "id": 77,
+            "sentence": "Например, это может быть фальшивый сайт, который просит вас ввести данные своей кредитной карты, чтобы украсть вашу информацию или же мошенник может предложить вам купить что-то, но никогда не отправить вам товар после того, как вы заплатили.",
+            "character": "Равшан",
+            "on_screen": "Ravshan",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 78
+          },
+        {
+            "id": 78,
+            "sentence": "Мошенничество является преступлением и преследуется по 159 статье Уголовного Кодекса.",
+            "character": "Равшан",
+            "on_screen": "Ravshan",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 79
+          },
+        {
+            "id": 79,
+            "sentence": "Я разочарованно вздохнул.",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 500
+          },
+        {
+            "id": 80,
+            "sentence": "Может, друг твоего брата сам виноват? Чего-то не понял. Многие выигрывают большие деньги и не жалуются!",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 82
+          },
+        {
+            "id": 81,
+            "sentence": "Наверное, действительно лучше выбрать честный заработок.",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 82
+          },
+        {
+            "id": 82,
+            "sentence": "Но это не единичный случай! Такое происходит на каждом шагу!",
+            "character": "Равшан",
+            "on_screen": "Ravshan",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 83
+          },
+        {
+            "id": 83,
+            "sentence": "А я все равно попробую. Надо верить в удачу!",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 84
+          },
+        {
+            "id": 84,
+            "sentence": "Сайт поприветствовал меня ярким баннером, приглашающим к регистрации. Необходимо было пройти сложную систему идентификации.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 85
+          },
+        {
+            "id": 85,
+            "sentence": "Как же они озаботились безопасностью пользователей. Сразу видно, ответственные бизнесмены.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 86
+          },
+        {
+            "id": 86,
+            "sentence": "Я ввёл в графу своё имя, фамилию, год рождения и номер телефона, а также запасные номера трёх самых близких людей для отправки сообщения в случае выигрыша джекпота.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 87
+          },
+        {
+            "id": 87,
+            "sentence": "Далее меня ждал этам голосовой идентификации. Нужно было доказать, что я не робот, произнося разные фразы, указанные на экране под запись.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 88
+          },
+        {
+            "id": 88,
+            "sentence": "Странная процедура, но миллион того стоит. Колечко загрузки вращалось мучительно долго. За это время я даже успел налить себе кружку чая.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 89
+          },
+        {
+            "id": 89,
+            "sentence": "Но вот всё получилось!Я начал крутить аппарат “Лимончик-миллиончик”.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 91
+          },
+        {
+            "id": 90,
+            "sentence": "Но вот всё получилось!Я начал крутить аппарат “Лимончик-миллиончик”.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "room",
+            "next": 91
+          },
+        {
+            "id": 91,
+            "sentence": "Первое время у меня ничего не получалось, но бесплатных круток было достаточно.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 92
+          },
+        {
+            "id": 92,
+            "sentence": "И вот, спустя несколько часов игры на экране появились долгожданные пять лимонов и огромная красная надпись “ДЖЕКПОТ”.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 93
+          },
+        {
+            "id": 93,
+            "sentence": "Я был так рад! Наконец-то я богат как скрудж макдак!!!",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 94
+          },
+        {
+            "id": 94,
+            "sentence": "Я потянулся к телефону, который стоял всё это время на беззвучном, чтобы порадовать всех такой крутой новостью, но обнаружил кучу пропущенных звонков от родителей и друзей.",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 95
+          },
+        {
+            "id": 95,
+            "sentence": "На экране телефона высветились сообщения:",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 96
+          },
+        {
+            "id": 96,
+            "sentence": "“Саша, что с тобой?!” “Сашенька, ответь!!” “АЛЕКСАНДР”",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 97
+          },
+        {
+            "id": 97,
+            "sentence": "Я судорожно начал читать сообщения, первым делом открыл диалог с папой, который записал голосовое.",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 98
+          },
+        {
+            "id": 98,
+            "sentence": "“Саша, в какой ты больнице? Ты жив? Мы с мамой не знаем, куда себя деть. Пожалуйста, ответь скорее. Скажи, что это просто шутка”..",
+            "character": "Папа",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 99
+          },
+        {
+            "id": 99,
+            "sentence": "Я набрал номер папы. Всего пару гудков и отец взял трубку.",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 100
+          },
+        {
+            "id": 100,
+            "sentence": "Алло-алло!!! Саша, это ты?",
+            "character": "Папа",
+            "on_screen": "Dad",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 101
+          },
+        {
+            "id": 101,
+            "sentence": "Да, а кто ещё?",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 102
+          },
+        {
+            "id": 102,
+            "sentence": "Ты где?",
+            "character": "Папа",
+            "on_screen": "Dad",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 103
+          },
+        {
+            "id": 103,
+            "sentence": "Дома, делаю уроки, чай пью. И кстати, мы теперь миллионеры.",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 104
+          },
+        {
+            "id": 104,
+            "sentence": "Мы так переволновались, ты же звонил час назад и говорил, что ты в больнице. Потом ещё врач перезвонил, сказал, что нужна платная срочная операция. Маму чуть удар не хватил!!",
+            "character": "Папа",
+            "on_screen": "Dad",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 105
+          },
+        {
+            "id": 105,
+            "sentence": "Нет, я был всё это время дома и вам не звонил, но маму удар хватит, ведь я выиграл пять миллионов в казино. Ураа!!",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 106
+          },
+        {
+            "id": 106,
+            "sentence": "Саша, мы перевели все наши накопленные деньги, все 100 000 тысяч, понимаешь? И родители твоих друзей тоже.. Мы думали, ты пострадал в аварии.",
+            "character": "Папа",
+            "on_screen": "Dad",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 107
+          },
+        {
+            "id": 107,
+            "sentence": "А это какой-то розыгрыш, шутка. Это мошенники, Саша, твоим голосом… Теперь я понимаю, я слышал о технологии синтеза голоса для мошеннических схем.",
+            "character": "Папа",
+            "on_screen": "Dad",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 108
+          },
+        {
+            "id": 108,
+            "sentence": "Синтез голоса - это процесс создания звуков, которые звучат как речь человека, но произносятся компьютером или другим устройством.",
+            "character": "Папа",
+            "on_screen": "Dad",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 109
+          },
+        {
+            "id": 109,
+            "sentence": "Это позволяет компьютерам говорить с людьми или читать текст вслух.",
+            "character": "Папа",
+            "on_screen": "Dad",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 110
+          },
+        {
+            "id": 110,
+            "sentence": "Мошенники используют технологии синтеза голоса, чтобы создать звуковые записи, звучащие как голос родственника или другого близкого человека.",
+            "character": "Папа",
+            "on_screen": "Dad",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 111
+          },
+        {
+            "id": 111,
+            "sentence": "Затем они могут позвонить или отправить голосовое сообщение жертве, представляясь этим родственником, и просить деньги или личную информацию под предлогом срочной ситуации или неотложной помощи.",
+            "character": "Папа",
+            "on_screen": "Dad",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 112
+          },
+        {
+            "id": 112,
+            "sentence": "Скажи ты записывал сообщения или может отправлял что-то такое?.",
+            "character": "Папа",
+            "on_screen": "Dad",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 113
+          },
+        {
+            "id": 113,
+            "sentence": "Холодный пот ручьём потёк по моей спине. Земля ушла из-под ног. Я начал понимать свою ошибку. 'Да.. При регистрации в казино…'",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "sad",
+            "background": "room",
+            "next": 114
+          },
+        {
+            "id": 114,
+            "sentence": "Ты же понимаешь, что всё это было обманом. Какое казино? Какие миллионы? О чём ты думал?",
+            "character": "Папа",
+            "on_screen": "Dad",
+            "emotion": "angry",
+            "background": "street",
+            "next": 115
+          },
+        {
+            "id": 115,
+            "sentence": "Последние слова были словно оглушающий удар по затылку. Слёзы потекли из моих глаз.",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "sad",
+            "background": "room",
+            "next": 116
+          },
+        {
+            "id": 116,
+            "sentence": "Понятно, Саша, поговорим дома, а сейчас позвони своим друзьям и объясни, что случилось. Они тоже переживают.",
+            "character": "Папа",
+            "on_screen": "Dad",
+            "emotion": "angry",
+            "background": "street",
+            "next": 117
+          },
+        {
+            "id": 117,
+            "sentence": "Похожие разговоры ждали меня и с друзьями, которые были шокированы то ли самой ситуацией, то ли моей глупостью.",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "sad",
+            "background": "class",
+            "next": 118
+          },
+        {
+            "id": 118,
+            "sentence": "Друг, я же говорил, что это плохая идея…",
+            "character": "Равшан",
+            "on_screen": "Ravshan",
+            "emotion": "sad",
+            "background": "class",
+            "next": 120
+          },
+        {
+            "id": 119,
+            "sentence": "Друг, я же говорил, что это плохая идея…",
+            "character": "Равшан",
+            "on_screen": "Ravshan",
+            "emotion": "sad",
+            "background": "class",
+            "next": 120
+          },
+        {
+            "id": 120,
+            "sentence": "Не удивлена, забудь мой номер, пожалуйста. Мне не нужны такие проблемы и такие друзья..",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "sad",
+            "background": "class",
+            "next": 121
+          },
+        {
+            "id": 121,
+            "sentence": "Стыд, смущение, страх и чувство абсолютной неопределённости..",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "sad",
+            "background": "class",
+            "next": 122
+          },
+        {
+            "id": 122,
+            "sentence": "Друзья тоже попросили своих родителей помочь материально, когда узнали, что я попал в “аварию”.",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "sad",
+            "background": "class",
+            "next": 123
+          },
+        {
+            "id": 123,
+            "sentence": "К сожалению, есть вещи, которые нельзя загладить простыми извинениями.",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "sad",
+            "background": "class",
+            "next": 124
+          },
+        {
+            "id": 124,
+            "sentence": "Не знаю, что ждёт меня впереди. Наверное, тяжёлая работа над собой и поптыки вернуть доверие семьи и друзей…",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "sad",
+            "background": "class",
+            "next": 187
+          },
+        {
+            "id": 125,
+            "sentence": "Дома я всё же решился испытать судьбу. Обратной дороги нет. Уверен, после этого я буду купаться в деньгах.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 126
+          },
+        {
+            "id": 126,
+            "sentence": "Я зашёл в поисковик, первая же ссылка отправила меня на уже знакомый сайт “Фишки для малышки”.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 128
+          },
+        {
+            "id": 127,
+            "sentence": "Я зашёл в поисковик, первая же ссылка отправила меня на уже знакомый сайт “Фишки для малышки”.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 128
+          },
+        {
+            "id": 128,
+            "sentence": "От процесса регистрации меня оторвал грохот на кухне.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 129
+          },
+        {
+            "id": 129,
+            "sentence": "Что такое? Нужно проверить!",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "room",
+            "next": 130
+          },
+        {
+            "id": 130,
+            "sentence": "На кухонном полу были рассыпаны хлопья для завтрака, а рядом сидел мой рыжий кот.",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "kitchen",
+            "next": 131
+          },
+        {
+            "id": 131,
+            "sentence": "Фидес, ну что ж это такое??",
+            "character": "Cаша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "kitchen",
+            "next": 132
+          },
+        {
+            "id": 132,
+            "sentence": "Мяу-мяу-мяу",
+            "character": "Фидес",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "kitchen",
+            "next": 133
+          },
+        {
+            "id": 133,
+            "sentence": "Как на него можно злиться? Такой он хороший и пушистый.",
+            "character": "Фидес",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "kitchen",
+            "next": 134
+          },
+        {
+            "id": 134,
+            "sentence": "Убрав беспорядок, я вернулся в комнату, чтобы продолжить регистрацию. В окошке уведомлений я заметил сообщение от Полины:",
+            "character": "Саша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "room",
+            "next": 135
+          },
+        {
+            "id": 135,
+            "sentence": "Позвони срочно.",
+            "character": "Полина",
+            "on_screen": "",
+            "emotion": "",
+            "background": "room",
+            "next": 136
+          },
+        {
+            "id": 136,
+            "sentence": "Если срочно, то и миллионы могут подождать.",
+            "character": "Полина",
+            "on_screen": "",
+            "emotion": "",
+            "background": "room",
+            "next": 137
+          },
+        {
+            "id": 137,
+            "sentence": "Подруга быстро взяла трубку и взволнованным голосом начала говорить.",
+            "character": "Саша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "room",
+            "next": 138
+          },
+        {
+            "id": 138,
+            "sentence": "Помнишь к нам в школу приходил полицейский, ну, Владимир Андреевич? Это ж мой дядя…",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "street",
+            "next": 139
+          },
+        {
+            "id": 139,
+            "sentence": "Твоя история про казино и гарантированный выигрыш меня насторожила, поэтому я решила спросить у дяди, что это за “Фишки для малышки”.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "street",
+            "next": 140
+          },
+        {
+            "id": 140,
+            "sentence": "Он мне рассказал, что это мошенническая схема! В прошлом месяце они назывались “Детки и рулетки”, тогда тоже многие люди пострадали. Вот как это работает",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "street",
+            "next": 141
+          },
+        {
+            "id": 141,
+            "sentence": "Мошенники используют технологии синтеза голоса, чтобы создать звуковые записи, звучащие как голос родственника или другого близкого человека.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "street",
+            "next": 142
+          },
+        {
+            "id": 142,
+            "sentence": "Затем они могут позвонить или отправить голосовое сообщение жертве, представляясь этим родственником, и просить деньги или личную информацию под предлогом срочной ситуации или неотложной помощи.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "street",
+            "next": 143
+          },
+        {
+            "id": 143,
+            "sentence": "Я внимательно выслушал подругу. Её слова звучали достаточно убедительно. Сайт уже не казался таким безопасным.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "room",
+            "next": 144
+          },
+        {
+            "id": 144,
+            "sentence": "Полина, спасибо, что рассказала! Ещё бы немного и случилась бы неприятность.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "room",
+            "next": 145
+          },
+        {
+            "id": 145,
+            "sentence": "Хорошо, что у меня такие друзья! Нужно извиниться перед Равшаном, он тоже предупреждал, что это плохая идея.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "room",
+            "next": 146
+          },
+        {
+            "id": 146,
+            "sentence": "Береги себя, дурашек-барашек!",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "street",
+            "next": 147
+          },
+        {
+            "id": 147,
+            "sentence": "После тяжёлого разговора я выключил компьютер. Кажется, я чуть не совершил одну из самых больших глупостей в своей жизни.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "room",
+            "next": 148
+          },
+        {
+            "id": 148,
+            "sentence": "Думаю, мне ещё предстоит узнать многое о безопасном поведении в интернете.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "room",
+            "next": 187
+          },
+        {
+            "id": 149,
+            "sentence": "Думаю, мне ещё предстоит узнать многое о безопасном поведении в интернете.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "room",
+            "next": 187
+          },
+        {
+            "id": 150,
+            "sentence": "Думаю, лучше не повторять чужие ошибки, а деньги можно достать и более честным путём. ",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 151
+          },
+        {
+            "id": 151,
+            "sentence": "Это хорошая мысль. Я как раз недавно думал о благотворительном концерте. Может, спросить у Олега, можно ли нам сыграть пару песен в Доме Культуры?",
+            "character": "Равшан",
+            "on_screen": "Ravshan",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 152
+          },
+        {
+            "id": 152,
+            "sentence": "Это очень ответственно!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 153
+          },
+        {
+            "id": 153,
+            "sentence": "Но все же лучше,чем онлайн-казино!",
+            "character": "Равшан",
+            "on_screen": "Ravshan",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 154
+          },
+        {
+            "id": 153,
+            "sentence": "Идея Равшана с концертом в Доме Культуры действительно нашла отклик у преподавателя по гитаре.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "guitar",
+            "next": 154
+          },
+        {
+            "id": 154,
+            "sentence": "Мне, Равшану и ее двум ребятам из нашей группы предложили выбрать репертуар и выступить на празднике в честь дня города! Но это еще не самая хорошая новость!",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "guitar",
+            "next": 155
+          },
+        {
+            "id": 155,
+            "sentence": "Оказывается, каждому из нас заплатят целых 10% от продажи билетов. Еще есть надежда, что Плейстейшн все-таки будет моей.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "guitar",
+            "next": 156
+          },
+        {
+            "id": 156,
+            "sentence": "Репетиция пролетела, как одно мгновение. Каждый из нас уже представил, как будет здорово выступить на концерте. Конечно, придется много репетировать, чтобы сыграть без единой ошибки.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "guitar",
+            "next": 157
+          },
+        {
+            "id": 157,
+            "sentence": "Другой вопрос, как же собрать целый зал?! Но и здесь у нас уже созрел план. Полина после нашего примирения была только рада помочь.",
+            "character": "Cаша",
+            "on_screen": "",
+            "emotion": "",
+            "background": "guitar",
+            "next": 158
+          },
+        {
+            "id": 158,
+            "sentence": "Человек пятьдесят точно позову! Больше, наверное, не получится.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "happy",
+            "background": "school",
+            "next": 159
+          },
+        {
+            "id": 159,
+            "sentence": "Но откуда ты знаешь столько людей?",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "happy",
+            "background": "school",
+            "next": 160
+          },
+        {
+            "id": 160,
+            "sentence": "Я хожу на пять разных кружков: у меня занятия по водным санкам, бильярду, вышиванию крестиком, гаданию на таро… Что я забыла?",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "happy",
+            "background": "school",
+            "next": 161
+          },
+        {
+            "id": 161,
+            "sentence": "Точно, лекции по лечению птиц от чрезмерного оперения. Я позову всех! Будет полный зал.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "happy",
+            "background": "school",
+            "next": 162
+          },
+        {
+            "id": 162,
+            "sentence": "Точно, лекции по лечению птиц от чрезмерного оперения. Я позову всех! Будет полный зал.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "happy",
+            "background": "school",
+            "next": 163
+          },
+        {
+            "id": 163,
+            "sentence": "О, можно ещё и кого-то из семьи позвать! Кстати, помнишь к нам в школу приходил полицейский, ну, Владимир Андреевич? Это ж мой дядя…",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "happy",
+            "background": "school",
+            "next": 164
+          },
+        {
+            "id": 164,
+            "sentence": "Ну, короче, он недавно рассказал про мошенников в интернете, которые вымогали деньги, используя голоса родственников.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "happy",
+            "background": "school",
+            "next": 165
+          },
+        {
+            "id": 165,
+            "sentence": "Мошенники используют технологии синтеза голоса, чтобы создать звуковые записи, звучащие как голос родственника или другого близкого человека.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "happy",
+            "background": "school",
+            "next": 166
+          },
+        {
+            "id": 166,
+            "sentence": "Затем они могут позвонить или отправить голосовое сообщение жертве, представляясь этим родственником, и просить деньги или личную информацию под предлогом срочной ситуации или неотложной помощи.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "happy",
+            "background": "school",
+            "next": 167
+          },
+        {
+            "id": 167,
+            "sentence": "Как же хорошо, что я не повёлся на этот развод. Страшно представить, чем безответственное поведение в интернете могло для меня обернуться.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "happy",
+            "background": "school",
+            "next": 168
+          },
+        {
+            "id": 168,
+            "sentence": "Всё же зарабатывать честным трудом лучше, чем полагаться на слепую удачу. Да и идея с концертом подарила мне дополнительное вдохновение.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "happy",
+            "background": "school",
+            "next": 170
+          },
+        {
+            "id": 169,
+            "sentence": "Всё же зарабатывать честным трудом лучше, чем полагаться на слепую удачу. Да и идея с концертом подарила мне дополнительное вдохновение.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "happy",
+            "background": "school",
+            "next": 170
+          },
+        {
+            "id": 170,
+            "sentence": "Равшан тоже времени зря не терял.За это время мы придумали несколько новых мелодий.",
+            "character": "Саша",
+            "on_screen": "Ravshan",
+            "emotion": "happy",
+            "background": "room",
+            "next": 171
+          },
+        {
+            "id": 171,
+            "sentence": "У нас точно все получится!",
+            "character": "Равшан",
+            "on_screen": "Ravshan",
+            "emotion": "happy",
+            "background": "room",
+            "next": 172
+          },
+        {
+            "id": 172,
+            "sentence": "Без всяких сомнений!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "happy",
+            "background": "room",
+            "next": 173
+          },
+        {
+            "id": 173,
+            "sentence": "Стоит ли говорить, что к началу концерта все было отрепетировано и проверено не один и даже не десять раз. У нас было лучшее звуковое оборудование, а билеты раскупили еще за неделю до концерта.",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "happy",
+            "background": "music",
+            "next": 174
+          },
+        {
+            "id": 174,
+            "sentence": "Даже волнения почти не было! Доиграв последний аккорд, я услышал, как зал взорвался аплодисментами. Вот это круто!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "happy",
+            "background": "music",
+            "next": 175
+          },
+        {
+            "id": 175,
+            "sentence": "За кулисы уже бежали все наши друзья. Полина, одноклассники, даже Наталья Николаевна пришла нас поддержать!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "happy",
+            "background": "music",
+            "next": 176
+          },
+        {
+            "id": 176,
+            "sentence": "С самого края неловко стояла Виолетта, выбиваясь из общего веселья.",
+            "character": "Саша",
+            "on_screen": "Violetta",
+            "emotion": "surprise",
+            "background": "music",
+            "next": 177
+          },
+        {
+            "id": 177,
+            "sentence": "Поздравляю, получается…",
+            "character": "Виолетта",
+            "on_screen": "Violetta",
+            "emotion": "surprise",
+            "background": "music",
+            "next": 178
+          },
+        {
+            "id": 178,
+            "sentence": "Виолетта громче всех хлопала, а сейчас стоит и стесняется! Пойдем к нам!",
+            "character": "Наталья Николаевна",
+            "on_screen": "NN",
+            "emotion": "happy",
+            "background": "music",
+            "next": 179
+          },
+        {
+            "id": 179,
+            "sentence": "В порыве общей радости я даже не сразу заметил, как вместе со всеми в комнату для репетиций зашла Катя и протянула мне небольшую черную коробочку.",
+            "character": "Саша",
+            "on_screen": "Kate",
+            "emotion": "happy",
+            "background": "class",
+            "next": 181
+          },
+        {
+            "id": 180,
+            "sentence": "В порыве общей радости я даже не сразу заметил, как вместе со всеми в комнату для репетиций зашла Катя и протянула мне небольшую черную коробочку.",
+            "character": "Саша",
+            "on_screen": "Kate",
+            "emotion": "happy",
+            "background": "class",
+            "next": 181
+          },
+        {
+            "id": 181,
+            "sentence": "Ух ты, это мне?",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "happy",
+            "background": "class",
+            "next": 182
+          },
+        {
+            "id": 182,
+            "sentence": "А кому же ещё!",
+            "character": "Катя",
+            "on_screen": "Kate",
+            "emotion": "happy",
+            "background": "class",
+            "next": 183
+          },
+        {
+            "id": 183,
+            "sentence": "Сердце забилось чаще. Открыв коробку, я обнаружил в ней маленькую сувенирную гитару.",
+            "character": "Саша",
+            "on_screen": "Kate",
+            "emotion": "happy",
+            "background": "class",
+            "next": 184
+          },
+        {
+            "id": 184,
+            "sentence": "Пусть это будет твоим талисманом. Каждый раз, когда начнешь в чем-то сомневаться, будешь смотреть на эту гитару и знать, что все обязательно получится!",
+            "character": "Катя",
+            "on_screen": "Kate",
+            "emotion": "happy",
+            "background": "class",
+            "next": 185
+          },
+        {
+            "id": 185,
+            "sentence": "А теперь общее фото!!",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "happy",
+            "background": "class",
+            "next": 186
+          },
+        {
+            "id": 186,
+            "sentence": "А у меня все уже получилось. Теперь я в этом точно уверен!",
+            "character": "Саша",
+            "on_screen": "Sasha",
+            "emotion": "happy",
+            "background": "class",
+            "next": 187
+          },
+        {
+            "id": 187,
+            "sentence": "КОНЕЦ ГЛАВЫ!\n Спасибо за прохождение игры!",
+            "character": "",
+            "on_screen": "Sasha",
+            "emotion": "happy",
+            "background": "",
+            "next": -1
+          },
+]
+
+

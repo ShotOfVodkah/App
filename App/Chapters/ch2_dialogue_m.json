@@ -1,0 +1,1414 @@
+
+
+[
+    {
+        "id": 0,
+        "sentence": "ГЛАВА 2",
+        "on_screen": "Sasha",
+        "character": "",
+        "emotion": "happy",
+        "background": "",
+        "next": 1
+    },
+        {
+            "id": 1,
+            "sentence": "Саша, что с тобой?",
+            "on_screen": "Polina",
+            "character": "Полина",
+            "emotion": "surprise",
+            "background": "dream",
+            "next": 2
+          },
+        
+      {
+          "id": 2,
+          "sentence": "А что со мной?",
+          "on_screen": "Sasha",
+          "character": "Саша",
+          "emotion": "surprise",
+          "background": "dream",
+          "next": 3
+        },
+      {
+          "id": 3,
+          "sentence": "Посмотри в зеркало!",
+          "on_screen": "Polina",
+          "character": "Полина",
+          "emotion": "surprise",
+          "background": "dream",
+          "next": 4
+        },
+      {
+          "id": 4,
+          "sentence": "Передо мной появилось огромное зеркало.",
+          "on_screen": "",
+          "character": "Саша",
+          "emotion": "",
+          "background": "dream",
+          "next": 5
+        },
+      {
+          "id": 5,
+          "sentence": "В его отражении на меня смотрел… Немецкий волк-танцор!!!",
+          "on_screen": "",
+          "character": "Саша",
+          "emotion": "",
+          "background": "dream",
+          "next": 6
+        },
+      {
+          "id": 6,
+          "sentence": "Лицо Полины застыло в гримасе ужаса, она не переставала кричать..",
+          "on_screen": "",
+          "character": "Саша",
+          "emotion": "",
+          "background": "dream",
+          "next": 7
+        },
+      {
+          "id": 7,
+          "sentence": "Сашенька, что с тобой? Что с тобой? Саша!!!!",
+          "on_screen": "Polina",
+          "character": "Полина",
+          "emotion": "surprise",
+          "background": "dream",
+          "next": 8
+        },
+      {
+          "id": 8,
+          "sentence": "Саша.. Сашенька, вставай! Ты будильник проспал",
+          "character": "Голос",
+          "on_screen": "",
+          "emotion": "",
+          "background": "dream",
+          "next": 9
+        },
+      {
+          "id": 9,
+          "sentence": "Открыв глаза, я увидел маму, склонившуюся над моей кроватью.",
+          "character": "Саша",
+          "on_screen": "Mom",
+          "emotion": "normal",
+          "background": "room",
+          "next": 10
+        },
+      {
+          "id": 10,
+          "sentence": "Сновидение с одноклассницей и персонажем мема развеялось.",
+          "character": "Саша",
+          "on_screen": "Mom",
+          "emotion": "normal",
+          "background": "room",
+          "next": 11
+        },
+      {
+          "id": 11,
+          "sentence": "Опять в телефоне до поздней ночи сидел, а сейчас вставать не хочешь.",
+          "character": "Мама",
+          "on_screen": "Mom",
+          "emotion": "normal",
+          "background": "room",
+          "next": 12
+        },
+      {
+          "id": 12,
+          "sentence": "Собирайся скорее, а то опоздаешь.",
+          "character": "Мама",
+          "on_screen": "Mom",
+          "emotion": "normal",
+          "background": "room",
+          "next": 13
+        },
+      {
+          "id": 13,
+          "sentence": "Просыпаться совсем не хотелось. Жаль, что от ненавистного понедельника нельзя спрятаться в тёплой постели.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "room",
+          "next": 14
+        },
+      {
+          "id": 14,
+          "sentence": "Интересно, что для меня приготовила новая неделя?",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "room",
+          "next": 15
+        },
+      {
+          "id": 15,
+          "sentence": "Быстро перекусив бутербродом, я отправился в школу, размышляя о новых модах для Sims.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "room",
+          "next": 16
+        },
+      {
+          "id": 16,
+          "sentence": "Как же мне нравится эта игра!",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "room",
+          "next": 17
+        },
+      {
+          "id": 17,
+          "sentence": "Зелёные почки на деревьях уже вот-вот должны были превратиться в молодые",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "street",
+          "next": 20
+        },
+      {
+          "id": 18,
+          "sentence": "Зелёные почки на деревьях уже вот-вот должны были превратиться в молодые  листочки. ",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "street",
+          "next": 19
+        },
+      {
+          "id": 19,
+          "sentence": "Зелёные почки на деревьях уже вот-вот должны были превратиться в молодые  листочки. ",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "street",
+          "next": 20
+        },
+      {
+          "id": 20,
+          "sentence": "Робкие солнечные лучи отражались в окнах многоэтажек.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "street",
+          "next": 21
+        },
+      {
+          "id": 21,
+          "sentence": "Настроение постепенно становилось лучше, да и Анна Асти в наушниках пела сегодня особенно хорошо.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "street",
+          "next": 22
+        },
+      {
+          "id": 22,
+          "sentence": "Из-за поворота показался знакомый силуэт с ярко-красной сумкой.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "street",
+          "next": 23
+        },
+      {
+          "id": 23,
+          "sentence": "Да это же Полина, прямиком из моего сна!",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "street",
+          "next": 24
+        },
+      {
+          "id": 24,
+          "sentence": "Я ускорился, чтобы догнать её и напугать также, как она меня неделю назад.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "street",
+          "next": 25
+        },
+      {
+          "id": 25,
+          "sentence": "Привет, По-ли-на!",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "happy",
+          "background": "street",
+          "next": 26
+        },
+      {
+          "id": 26,
+          "sentence": "Она пискнула и резко обернулась!",
+          "character": "Саша",
+          "on_screen": "Polina",
+          "emotion": "surprise",
+          "background": "street",
+          "next": 34
+        },
+      {
+          "id": 27,
+          "sentence": "А ты мне сегодня приснилась! А ещё я там волком был, но это не так важно..",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "happy",
+          "background": "street",
+          "next": 28
+        },
+      {
+          "id": 28,
+          "sentence": "С воскресенье на понедельник во сне видятся истинные желания. Нет ли у тебя желания повыть на луну?",
+          "character": "Полина",
+          "on_screen": "Polina",
+          "emotion": "happy",
+          "background": "street",
+          "next": 29
+        },
+      {
+          "id": 29,
+          "sentence": "Хммм, вроде, нет.",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "happy",
+          "background": "street",
+          "next": 30
+        },
+      {
+          "id": 30,
+          "sentence": "Полина попыталась спародировать вой дикого волка, хотя, у неё не очень",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "happy",
+          "background": "street",
+          "next": 31
+        },
+      {
+          "id": 31,
+          "sentence": "Полина попыталась спародировать вой дикого волка, хотя, у неё не очень хорошо получилось.",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "happy",
+          "background": "street",
+          "next": 32
+        },
+      {
+          "id": 32,
+          "sentence": "Мы начали вместе смеяться. Хорошо, что у меня такая соседка по парте.",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "happy",
+          "background": "street",
+          "next": 33
+        },
+      {
+          "id": 33,
+          "sentence": "Вместе мы дошли до школы, обсуждая события прошлой недели и выходных.",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "happy",
+          "background": "street",
+          "next": 45
+        },
+      {
+          "id": 34,
+          "sentence": "Удивление быстро сменилось на недовольство. Видно, она ещё не забыла ситуацию с тетрадью.",
+          "character": "Саша",
+          "on_screen": "Polina",
+          "emotion": "angry",
+          "background": "street",
+          "next": 35
+        },
+      {
+          "id": 35,
+          "sentence": "Ты чего ко мне лезешь? Я тебе больше списывать не дам!",
+          "character": "Полина",
+          "on_screen": "Polina",
+          "emotion": "angry",
+          "background": "street",
+          "next": 36
+        },
+      {
+          "id": 36,
+          "sentence": "В её голосе чувствовалась обида. Действительно, всю неделю я разбирался с фейковой страничкой и совсем забыл извиниться перед Полиной.",
+          "character": "Саша",
+          "on_screen": "Polina",
+          "emotion": "angry",
+          "background": "street",
+          "next": 37
+        },
+      {
+          "id": 37,
+          "sentence": "А она сидела со мной за одной партой и не подавала виду.",
+          "character": "Саша",
+          "on_screen": "Polina",
+          "emotion": "angry",
+          "background": "street",
+          "next": 200
+        },
+      {
+          "id": 38,
+          "sentence": "Хотя, она тоже ведёт себя странно. Сидела всю неделю и молчала, а сейчас на меня кидается. Да я и без неё справлюсь!",
+          "character": "Саша",
+          "on_screen": "Polina",
+          "emotion": "angry",
+          "background": "street",
+          "next": 39
+        },
+      {
+          "id": 39,
+          "sentence": "Ой, да нужны мне твои каракули! Я тебя со своей знакомой перепутал, вы со спины очень похожи.",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "angry",
+          "background": "street",
+          "next": 40
+        },
+      {
+          "id": 40,
+          "sentence": "Глаза Полины наполнились слезами, а губы начали слегка дрожать.",
+          "character": "Саша",
+          "on_screen": "Polina",
+          "emotion": "sad",
+          "background": "street",
+          "next": 41
+        },
+      {
+          "id": 41,
+          "sentence": "Я теперь буду сидеть с Виолеттой, больше ко мне не подходи.",
+          "character": "Полина",
+          "on_screen": "Polina",
+          "emotion": "sad",
+          "background": "street",
+          "next": 42
+        },
+      {
+          "id": 42,
+          "sentence": "Утерев слёзы краешком шарфа она ускорила шаг и скрылась в толпе прохожих.",
+          "character": "Cаша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "street",
+          "next": 43
+        },
+      {
+          "id": 43,
+          "sentence": "Я продолжил свой путь до школы. От хорошего настроения уже ничего не осталось.",
+          "character": "Cаша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "street",
+          "next": 44
+        },
+      {
+          "id": 44,
+          "sentence": "Ну и ладно, не очень-то и хотелось с ней сидеть за одной партой.",
+          "character": "Cаша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "street",
+          "next": 49
+        },
+      {
+          "id": 45,
+          "sentence": "Полина, ты прости меня, пожалуйста, что так подвёл. Не думаю, что могу как-то загладить свою вину, но попытаюсь.",
+          "character": "Cаша",
+          "on_screen": "Sasha",
+          "emotion": "sad",
+          "background": "street",
+          "next": 46
+        },
+      {
+          "id": 46,
+          "sentence": "Я протянул ей коробочку с сырками «Ростагрокомплекса» и запиской “SO SORRY”, которую я приготовил ещё с вечера.",
+          "character": "Cаша",
+          "on_screen": "Sasha",
+          "emotion": "sad",
+          "background": "street",
+          "next": 47
+        },
+      {
+          "id": 47,
+          "sentence": "На уголках её губ на мгновение возникла улыбка, но она до конца старалась сохранять сердитое выражение лица.",
+          "character": "Cаша",
+          "on_screen": "Polina",
+          "emotion": "sad",
+          "background": "street",
+          "next": 48
+        },
+      {
+          "id": 47,
+          "sentence": "Твои любимые!",
+          "character": "Cаша",
+          "on_screen": "Sasha",
+          "emotion": "happy",
+          "background": "street",
+          "next": 48
+        },
+      {
+          "id": 48,
+          "sentence": "Дурак ты, Саша!! Ладно, прощаю, но больше так не делай. А сырки и правда мои любимые, спасибо!",
+          "character": "Полина",
+          "on_screen": "Polina",
+          "emotion": "happy",
+          "background": "street",
+          "next": 49
+        },
+      {
+          "id": 49,
+          "sentence": "Сразу после первого урока ко мне подбежал Равшан.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "school",
+          "next": 50
+        },
+      {
+          "id": 50,
+          "sentence": "Нет, ну ты видел? Видел?",
+          "character": "Равшан",
+          "on_screen": "Ravshan",
+          "emotion": "surprise",
+          "background": "school",
+          "next": 51
+        },
+      {
+          "id": 51,
+          "sentence": "А я ничего не видел, но судя по его реакции, лучше бы мне этого и не видеть.",
+          "character": "Саша",
+          "on_screen": "Ravshan",
+          "emotion": "surprise",
+          "background": "school",
+          "next": 52
+        },
+      {
+          "id": 52,
+          "sentence": "Нет, а что там?",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "surprise",
+          "background": "school",
+          "next": 53
+        },
+      {
+          "id": 53,
+          "sentence": "А ты зайди в ТГ-канал “Сплетни школы №7”.",
+          "character": "Равшан",
+          "on_screen": "Ravshan",
+          "emotion": "surprise",
+          "background": "school",
+          "next": 54
+        },
+      {
+          "id": 54,
+          "sentence": "Тот самый сборник локальных мемов и сплетен, где девочки пытались найти контакты симпатичных старшеклассников, выкладывая их фотографии с совместных уроков физкультуры.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "computer",
+          "next": 56
+        },
+      {
+          "id": 55,
+          "sentence": "Тот самый сборник локальных мемов и сплетен, где девочки пытались найти контакты симпатичных старшеклассников, выкладывая их фотографии с совместных уроков физкультуры.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "school",
+          "next": 56
+        },
+      {
+          "id": 56,
+          "sentence": "Пролистав последние обновления в канале, я застыл в удивлении, увидев смешную картинку с самим собой в главной роли, а под ней - массу реакций и комментариев.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "computer",
+          "next": 57
+        },
+      {
+          "id": 57,
+          "sentence": "Это еще не всё! Тебя теперь вся школа знает. Оскорбительные картинки подобного содержания уже заполонили канал. Автор, правда, нигде не был указан.",
+          "character": "Равшан",
+          "on_screen": "",
+          "emotion": "",
+          "background": "computer",
+          "next": 58
+        },
+      {
+          "id": 58,
+          "sentence": "Ни дня без приключений… Причем, абсолютно непонятно, кому это я мог так насолить.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "computer",
+          "next": 59
+        },
+      {
+          "id": 59,
+          "sentence": "Отвечаю, это точно Димас! Не смог отпустить ситуацию со страничкой в вк. Даже гадать не нужно!",
+          "character": "Равшан",
+          "on_screen": "Ravshan",
+          "emotion": "surprise",
+          "background": "school",
+          "next": 60
+        },
+      {
+          "id": 60,
+          "sentence": "Звонок прервал наш диалог, и я направился в класс в смешанных чувствах.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "class",
+          "next": 61
+        },
+      {
+          "id": 61,
+          "sentence": "Сев за парту, я заметил изучающие взгляды одноклассников.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "class",
+          "next": 62
+        },
+      {
+          "id": 62,
+          "sentence": "Кто-то хихикал, прикрывая рот ладонью, кто-то смотрел сочувствующе,",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "class",
+          "next": 63
+        },
+      {
+          "id": 63,
+          "sentence": "Виолетта язвительно улыбалась, но мне не было никакого дела - главное, чтобы этого не увидела Катя.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "class",
+          "next": 64
+        },
+      {
+          "id": 64,
+          "sentence": "Димы, к его счастью, в школе сегодня не было: на втором уроке Наталья Николаевна отмечала в журнале тех, кто пропускал уроки по болезни.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "class",
+          "next": 65
+        },
+      {
+          "id": 65,
+          "sentence": "Весь остаток дня прошел как в тумане: я размышлял, что же теперь сделать, чтобы защитить свою репутацию.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "class",
+          "next": 66
+        },
+      {
+          "id": 66,
+          "sentence": "После школы Равшан предложил свою идею:",
+          "character": "Саша",
+          "on_screen": "Ravshan",
+          "emotion": "happy",
+          "background": "yard",
+          "next": 67
+        },
+      {
+          "id": 67,
+          "sentence": "Нужно отправить в предложку телеграмм-канала мем про Диму. Тогда мы отомстим ему и защитим твою честь!",
+          "character": "Равшан",
+          "on_screen": "Ravshan",
+          "emotion": "happy",
+          "background": "yard",
+          "next": 300
+        },
+      {
+          "id": 68,
+          "sentence": "Идея неплохая. Можно поработать в фотошопе, я не так давно этим увлекался!",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "normal",
+          "background": "yard",
+          "next": 69
+        },
+      {
+          "id": 69,
+          "sentence": "После школы я открыл программу и начал выбирать шаблон для своего ответственного задания по защите чести и репутации.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "computer",
+          "next": 70
+        },
+      {
+          "id": 70,
+          "sentence": "Это было не так легко, как казалось: популярных мемов было огромное количество. Напрягая фантазию, я и не заметил, как увлекся.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "computer",
+          "next": 71
+        },
+      {
+          "id": 71,
+          "sentence": "Равшан оценивал каждую картинку, отправляя в чате смайлики.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "computer",
+          "next": 72
+        },
+      {
+          "id": 72,
+          "sentence": "Закончив нашу маленькую месть, я сразу же отправил картинку в предложку админа.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "computer",
+          "next": 73
+        },
+      {
+          "id": 73,
+          "sentence": "Ну держись, Дима! Звание школьного клоуна теперь твоё.",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "happy",
+          "background": "room",
+          "next": 74
+        },
+      {
+          "id": 74,
+          "sentence": "Перед уроками мы с Равшаном проверили канал. Теперь уже под картинкой с лицом Димы пестрили комментарии и реакции.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "school",
+          "next": 75
+        },
+      {
+          "id": 75,
+          "sentence": "Кажется, кризис миновал! Школьный день прошел спокойно.Видимо, все уже привыкли к новостям в канале. Актив упал.",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "class",
+          "next": 76
+        },
+      {
+          "id": 76,
+          "sentence": "Даже контрольная не показалась такой уж сложной (если не считать последнее задание, конечно же).",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "class",
+          "next": 78
+        },
+      {
+          "id": 77,
+          "sentence": "Даже контрольная не показалась такой уж сложной (если не считать последнее задание, конечно же).",
+          "character": "Саша",
+          "on_screen": "",
+          "emotion": "",
+          "background": "class",
+          "next": 78
+        },
+      {
+          "id": 78,
+          "sentence": "Вот только под конец дня в класс зашла разгневанная классная руководительница.",
+          "character": "Саша",
+          "on_screen": "NN",
+          "emotion": "angry",
+          "background": "class",
+          "next": 79
+        },
+      {
+          "id": 79,
+          "sentence": "Я не знаю, чьей идеей было создание в сети канала с оскорблениями, но, будьте уверены, педагогический состав этого так не оставит.",
+          "character": "Наталья Николаевна",
+          "on_screen": "NN",
+          "emotion": "angry",
+          "background": "class",
+          "next": 80
+        },
+      {
+          "id": 80,
+          "sentence": "Администратор канала будет вызван на педагогический совет Додуматься превратить канал в рассадник оскорблений и хамства - это просто неприемлемо!",
+          "character": "Наталья Николаевна",
+          "on_screen": "NN",
+          "emotion": "angry",
+          "background": "class",
+          "next": 81
+        },
+      {
+          "id": 81,
+          "sentence": "От её слов земля ушла из-под ног. Мысли в голове роились словно тысяча пчёл: знают ли они, что это я кинул картинку в предложку?",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "sad",
+          "background": "class",
+          "next": 82
+        },
+      {
+          "id": 82,
+          "sentence": "получится ли избежать наказания? что подумает обо мне Катя..? После ухода Натальи Николаевны класс загудел.",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "sad",
+          "background": "class",
+          "next": 83
+        },
+      {
+          "id": 83,
+          "sentence": "Это был классный канал про школу, у нас никогда такого не было! А теперь кто-то пожаловался, и его попросят удалить!",
+          "character": "Одноклассник",
+          "on_screen": "",
+          "emotion": "",
+          "background": "class",
+          "next": 84
+        },
+      {
+          "id": 84,
+          "sentence": "Вот именно! Саша, это ты что ли был? Про тебя там больше всех писали!",
+          "character": "Виолетта",
+          "on_screen": "Violetta",
+          "emotion": "normal",
+          "background": "class",
+          "next": 85
+        },
+      {
+          "id": 85,
+          "sentence": "А может это была ты?",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "normal",
+          "background": "class",
+          "next": 86
+        },
+      {
+          "id": 86,
+          "sentence": "Мне картинки не нужны, я могу сказать всё в лицо. Не переводи стрелки, лицемер.",
+          "character": "Виолетта",
+          "on_screen": "Violetta",
+          "emotion": "normal",
+          "background": "class",
+          "next": 87
+        },
+      {
+          "id": 87,
+          "sentence": "На какое-то время Виолетта замолкла, казалось, что беда миновала, но тут она резко встала и объявила на весь класс:",
+          "character": "Саша",
+          "on_screen": "Violetta",
+          "emotion": "normal",
+          "background": "class",
+          "next": 88
+        },
+      {
+          "id": 88,
+          "sentence": "Я это терпеть не намерена, я за правду.",
+          "character": "Виолетта",
+          "on_screen": "Violetta",
+          "emotion": "normal",
+          "background": "class",
+          "next": 89
+        },
+      {
+          "id": 89,
+          "sentence": "Класс замолчал, устремив все взгляды на неё.",
+          "character": "Саша",
+          "on_screen": "Violetta",
+          "emotion": "normal",
+          "background": "class",
+          "next": 90
+        },
+      {
+          "id": 90,
+          "sentence": "Все знают, что это ты!",
+          "character": "Виолетта",
+          "on_screen": "Violetta",
+          "emotion": "normal",
+          "background": "class",
+          "next": 91
+        },
+      {
+          "id": 91,
+          "sentence": "Она выбежала из класса, внутреннее чутьё подсказывало, что она направляется в учительскую.",
+          "character": "Виолетта",
+          "on_screen": "",
+          "emotion": "",
+          "background": "class",
+          "next": 92
+        },
+      {
+          "id": 92,
+          "sentence": "Я попытался догнать её, но когда я оказался в учительской, одноклассницу уже окружила толпа учителей.",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "surprise",
+          "background": "school",
+          "next": 93
+        },
+      {
+          "id": 93,
+          "sentence": "Наталья Николаевна посмотрела на меня строго, было понятно, что Виолетта уже успела ей наябедничать.",
+          "character": "Саша",
+          "on_screen": "NN",
+          "emotion": "angry",
+          "background": "school",
+          "next": 94
+        },
+      {
+          "id": 94,
+          "sentence": "Родителей в школу!",
+          "character": "Наталья Николаевна",
+          "on_screen": "NN",
+          "emotion": "angry",
+          "background": "school",
+          "next": 95
+        },
+      {
+          "id": 95,
+          "sentence": "Это был конец, полный провал. По телу пробежала дрожь, в голове эхом",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "sad",
+          "background": "school",
+          "next": 97
+        },
+      {
+          "id": 96,
+          "sentence": "Это был конец, полный провал. По телу пробежала дрожь, в голове эхом отозвались слова преподавателя.",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "sad",
+          "background": "school",
+          "next": 97
+        },
+      {
+          "id": 97,
+          "sentence": "Только не родителей… Только не в школу…",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "sad",
+          "background": "school",
+          "next": 98
+        },
+      {
+          "id": 98,
+          "sentence": "На следующий день, сидя под кабинетом директора, я проклинал всех: и  Диму, и Виолетту, и глупых одноклассников.",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "sad",
+          "background": "school",
+          "next": 100
+        },
+      {
+          "id": 100,
+          "sentence": "Конечно, родители не были довольны моими “выходками”.",
+          "character": "Саша",
+          "on_screen": "Sasha",
+          "emotion": "sad",
+          "background": "school",
+          "next": 101
+        },
+      
+    {
+        "id": 101,
+        "sentence": "До конца недели мне было запрещено пользоваться телефоном и компьютером. ТГ-канал закрыли.",
+        "character": "Саша",
+        "on_screen": "Sasha",
+        "emotion": "sad",
+        "background": "school",
+        "next": 102
+      },
+    {
+        "id": 102,
+        "sentence": "Сожалел ли я о своём поступке? Нет, это того стоило.",
+        "character": "Саша",
+        "on_screen": "Sasha",
+        "emotion": "sad",
+        "background": "school",
+        "next": 126
+      },
+    {
+        "id": 103,
+        "sentence": "Лучше написать админу канала и попросить больше не публиковать такие посты.",
+        "character": "Саша",
+        "on_screen": "Sasha",
+        "emotion": "normal",
+        "background": "yard",
+        "next": 104
+      },
+    {
+        "id": 104,
+        "sentence": "После школы я открыл чат с администратором канала и принялся печатать.",
+        "character": "Саша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "computer",
+        "next": 105
+      },
+    {
+        "id": 105,
+        "sentence": "“Привет! Я заметил, что в последнее время в канал часто выкладывают картинки с моим изображением. Я знаю, что это поднимает актив в канале, но я хочу попросить больше такое не постить”.",
+        "character": "Саша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "computer",
+        "next": 106
+      },
+    {
+        "id": 106,
+        "sentence": "Подумав, я добавил: “Это унижение чести и достоинства человека”.",
+        "character": "Саша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "computer",
+        "next": 107
+      },
+    {
+        "id": 107,
+        "sentence": "Кажется, звучит неплохо! Ответ не заставил долго ждать:",
+        "character": "Саша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "computer",
+        "next": 108
+      },
+    {
+        "id": 108,
+        "sentence": "“Привет! У нас в соцсетях свобода слова, и мы постим в канал то, что считаем нужным. Грустно, что про тебя пишут неприятные вещи, но ты всегда можешь запостить что-то в ответ, будем рады опубликовать ;)”",
+        "character": "Админ",
+        "on_screen": "",
+        "emotion": "",
+        "background": "computer",
+        "next": 109
+      },
+    {
+        "id": 109,
+        "sentence": "Было очевидно. Админ был даже рад конфликту. Наконец-то школьный канал приобрел невиданную популярность! Но уподобляться обидчикам я не хотел.",
+        "character": "Саша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "computer",
+        "next": 110
+      },
+    {
+        "id": 110,
+        "sentence": "Перед школой я сказал Равшану, что планирую обратиться к социальному педагогу, Оксане Леонидовне, за советом.",
+        "character": "Саша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "yard",
+        "next": 111
+      },
+    {
+        "id": 111,
+        "sentence": "В первый раз я побывал в её кабинете, разбив окно в третьем классе. Тогда она показалась мне довольно строгой и неприветливой, однако вскоре все детские шалости забылись, и мы с друзьями часто заходили к ней в кабинет поделиться новостями.",
+        "character": "Саша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "yard",
+        "next": 112
+      },
+    {
+        "id": 112,
+        "sentence": " Иногда она даже угощала нас вкусным печеньем с шоколадной крошкой!",
+        "character": "Саша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "yard",
+        "next": 113
+      },
+    {
+        "id": 113,
+        "sentence": "Я бы лучше разобрался своими силами… Взрослые в таком плохо разбираются. Но если ты всего лишь спросишь совета, хуже не будет!",
+        "character": "Равшан",
+        "on_screen": "Ravshan",
+        "emotion": "normal",
+        "background": "yard",
+        "next": 114
+      },
+    {
+        "id": 114,
+        "sentence": "После уроков я зашёл в маленький уютный кабинет социального педагога.",
+        "character": "Саша",
+        "on_screen": "Oksana",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 115
+      },
+    {
+        "id": 115,
+        "sentence": "Оксана Леонидовна была рада меня видеть. Я вкратце пересказал ей сложившуюся ситуацию, на что она вздохнула и призадумалась.",
+        "character": "Саша",
+        "on_screen": "Oksana",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 117
+      },
+    {
+        "id": 116,
+        "sentence": "Оксана Леонидовна была рада меня видеть. Я вкратце пересказал ей сложившуюся ситуацию, на что она вздохнула и призадумалась.",
+        "character": "Саша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "classroom",
+        "next": 117
+      },
+    {
+        "id": 117,
+        "sentence": "Ты правильно поступил, что не стал отвечать агрессией на агрессию.",
+        "character": "Оксана Леонидовна",
+        "on_screen": "Oksana",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 118
+      },
+    {
+        "id": 118,
+        "sentence": "Я давно хотела организовать в школе классный час на тему грамотности в сети, и, кажется, откладывать больше нельзя.",
+        "character": "Оксана Леонидовна",
+        "on_screen": "Oksana",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 119
+      },
+    {
+        "id": 119,
+        "sentence": "В пятницу к вам на урок придёт представитель закона и объяснит, чем может грозить такое поведение.",
+        "character": "Оксана Леонидовна",
+        "on_screen": "Oksana",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 120
+      },
+    {
+        "id": 120,
+        "sentence": "Вы же не будете рассказывать, что это я пожаловался на телеграмм-канал? Если ребята узнают, от моей репутации ничего не останется…",
+        "character": "Саша",
+        "on_screen": "Sasha",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 121
+      },
+    {
+        "id": 121,
+        "sentence": "ОЛ доброжелательно улыбнулась.",
+        "character": "Саша",
+        "on_screen": "Oksana",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 122
+      },
+    {
+        "id": 122,
+        "sentence": "Я тоже училась в школе и знаю,что дети бывают жестоки.",
+        "character": "Оксана Леонидовна",
+        "on_screen": "Oksana",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 123
+      },
+    {
+        "id": 123,
+        "sentence": "Надеюсь, должный уровень правовой грамотности в сети заставит автора картинки задуматься.",
+        "character": "Оксана Леонидовна",
+        "on_screen": "Oksana",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 124
+      },
+    {
+        "id": 124,
+        "sentence": "Не хочешь помочь организовать классный час? Придумаешь список вопросов, которые могли бы заинтересовать ребят.",
+        "character": "Оксана Леонидовна",
+        "on_screen": "Oksana",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 125
+      },
+    {
+        "id": 125,
+        "sentence": "С радостью!",
+        "character": "Саша",
+        "on_screen": "Sasha",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 126
+      },
+    {
+        "id": 126,
+        "sentence": "В пятницу на классном часу было тихо как никогда.",
+        "character": "Саша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "classroom",
+        "next": 127
+      },
+    {
+        "id": 127,
+        "sentence": "В класс зашёл мужчина в форме. Серьёзный, он заставлял немного напрячься весь класс.",
+        "character": "Саша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "classroom",
+        "next": 128
+      },
+    {
+        "id": 128,
+        "sentence": "Здравствуйте, дети. Меня зовут Владимир Андреевич, я ваш участковый. Сегодня мы поговорим о правомерном поведении в сети Интернет.",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 142
+      },
+    {
+        "id": 129,
+        "sentence": "Весь класс увлёкся рассказом полицейского, ребята задавали вопросы и разбирали ситуации из жизни. Не обошли стороной и наш ТГ-канал.",
+        "character": "Саша",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 148
+      },
+    {
+        "id": 130,
+        "sentence": "Не только в нашем классе, но и во всей школе был проведен такой классный час.",
+        "character": "Саша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "classroom",
+        "next": 131
+      },
+    {
+        "id": 131,
+        "sentence": "Стоило ли удивляться, что в школьном телеграмм-канале уже на следующий день исчезли все оскорбительные картинки, а мемы остались исключительно безобидные.",
+        "character": "Саша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "classroom",
+        "next": 132
+      },
+    {
+        "id": 132,
+        "sentence": "После классного часа ко мне подошла Катя.",
+        "character": "Саша",
+        "on_screen": "Kate",
+        "emotion": "normal",
+        "background": "school",
+        "next": 133
+      },
+    {
+        "id": 133,
+        "sentence": "Оксана Леонидовна просила поделиться впечатлениями от классного часа. Она сказала, что ты помог с организацией, не хочешь вместе к ней сходить?",
+        "character": "Катя",
+        "on_screen": "Kate",
+        "emotion": "normal",
+        "background": "school",
+        "next": 134
+      },
+    {
+        "id": 134,
+        "sentence": "С радостью! Ты, кстати, тоже эти мемы видела?",
+        "character": "Саша",
+        "on_screen": "Sasha",
+        "emotion": "happy",
+        "background": "school",
+        "next": 135
+      },
+    {
+        "id": 135,
+        "sentence": "Катя доброжелательно усмехнулась.",
+        "character": "Саша",
+        "on_screen": "Kate",
+        "emotion": "happy",
+        "background": "school",
+        "next": 136
+      },
+    {
+        "id": 136,
+        "sentence": "Конечно, даже посмеялась пару раз! Но тот, кто это запостил, нехорошо поступил. Круто, что нам всё объяснили!",
+        "character": "Катя",
+        "on_screen": "Kate",
+        "emotion": "happy",
+        "background": "school",
+        "next": 140
+      },
+    {
+        "id": 137,
+        "sentence": "После классного часа в коридоре я заметил Катю. Она не стала подходить, лишь усмехнулась",
+        "character": "Саша",
+        "on_screen": "Kate",
+        "emotion": "angry",
+        "background": "school",
+        "next": 138
+      },
+    {
+        "id": 138,
+        "sentence": "Ябедничать нехорошо!",
+        "character": "Катя",
+        "on_screen": "Kate",
+        "emotion": "angry",
+        "background": "school",
+        "next": 139
+      },
+    {
+        "id": 139,
+        "sentence": "И как ей объяснить, что это был не я, а Дима?... Опять он все испортил!",
+        "character": "Cаша",
+        "on_screen": "Kate",
+        "emotion": "angry",
+        "background": "school",
+        "next": 140
+      },
+    {
+        "id": 140,
+        "sentence": "История с ТГ-каналом быстро забылась. Одноклассники быстро создали новую группу без негатива и обзывательств.",
+        "character": "Cаша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "school",
+        "next": 141
+      },
+    {
+        "id": 141,
+        "sentence": "Но неприятный осадок после истории остался. Надеюсь, новая неделя пройдет без происшествий.",
+        "character": "Cаша",
+        "on_screen": "",
+        "emotion": "",
+        "background": "school",
+        "next": -1
+      },
+    {
+        "id": 142,
+        "sentence": "За оскорбление личности может наступить административная ответственность по статье 5.61 Кодекса Российской Федерации об административных правонарушениях.",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 143
+      },
+    {
+        "id": 143,
+        "sentence": "Оскорбление представляет собой действия, направленные на унижение чести и достоинства другого лица, выраженные в неприличной форме.",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 144
+      },
+    {
+        "id": 144,
+        "sentence": "Неприличной следует считать циничную, противоречащую нравственным нормам поведения в обществе форму унизительного обращения с человеком.",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 145
+      },
+    {
+        "id": 145,
+        "sentence": "Как оскорбление можно расценивать непристойные шутки, нецензурную брань и оскорбительные жесты в адрес конкретного лица.",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 146
+      },
+    {
+        "id": 146,
+        "sentence": "Субъектом данного правонарушения могут быть и несовершеннолетний гражданин, достигший 16-летнего возраста, оскорбивший, к примеру, в социальной сети своего сверстника.",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 147
+      },
+    {
+        "id": 147,
+        "sentence": "Кроме того, необходимо помнить, что привлечение лица к административной ответственности за оскорбление не является основанием для освобождения его от обязанности денежной компенсации причиненного потерпевшему морального вреда в соответствии со статьей 151 Гражданского кодекса Российской Федерации.",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 129
+      },
+    {
+        "id": 148,
+        "sentence": "Telegram — популярный мессенджер, который позволяет общаться с друзьями и коллегами, отправлять сообщения, звонить, видео чатиться, делиться фотографиями и документами.",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 149
+      },
+    {
+        "id": 149,
+        "sentence": "Однако, так как Telegram имеет свои правила использования, существуют определенные ограничения и запреты, которыми пользователи должны следовать.",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 150
+      },
+    {
+        "id": 150,
+        "sentence": "Вот некоторые действия, которые стоит избегать в Telegram:",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 151
+      },
+    {
+        "id": 151,
+        "sentence": "Распространение контента, нарушающего законодательство. Запрещено отправлять или публиковать материалы, которые нарушают авторские права, содержат дискриминацию, ненависть, насилие, порнографию или другой контент, запрещенный законодательством.:",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 152
+      },
+    {
+        "id": 152,
+        "sentence": "Создание спама и массовой рассылки. Нежелательно использовать Telegram для массовой отправки нежелательной рекламной информации или спама.",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 153
+      },
+    {
+        "id": 153,
+        "sentence": "Оскорбления, угрозы и ненависть. Запрещено использовать Telegram для оскорблений, угроз и проявления ненависти по отношению к другим пользователям или группам.",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 154
+      },
+    {
+        "id": 154,
+        "sentence": "Распространение ложной информации. Необходимо избегать распространения ложной информации или фейковых новостей, которые могут вводить в заблуждение других пользователей.",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 155
+      },
+    {
+        "id": 155,
+        "sentence": "Взлом аккаунтов и использование чужой личной информации. Запрещено пытаться взламывать аккаунты или использовать чужие личные данные без согласия владельца.",
+        "character": "Полицейский",
+        "on_screen": "Policeman",
+        "emotion": "normal",
+        "background": "classroom",
+        "next": 130
+      },
+]
+
+
+
+

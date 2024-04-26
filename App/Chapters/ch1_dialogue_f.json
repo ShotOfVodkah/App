@@ -1,0 +1,1912 @@
+[
+        {
+                "id": 0,
+                "sentence": "ГЛАВА 1",
+                "on_screen": "Sasha_f",
+                "character": "",
+                "emotion": "happy",
+                "background": "",
+                "next": 1
+        },
+        {
+            "id": 1,
+            "sentence": "Согласны ли Вы взять этого пацана в мужья? Клянетесь быть с ним в богатстве и бедности, на дискотеках и стрелках с другими группировками?",
+            "on_screen": "",
+            "character": "",
+            "emotion": "",
+            "background": "dream",
+            "next": 2
+          },
+        {
+            "id": 2,
+            "sentence": "Согласна.",
+            "character": "Наталья Николаевна",
+            "on_screen": "NN",
+            "emotion": "happy",
+            "background": "wedding",
+            "next": 3
+          },
+        {
+            "id": 3,
+            "sentence": "А Вы, жених, согласны взять в жены Наталью? Клянетесь быть с ней в богатстве и бедности, защищать её и обеспечивать?",
+            "on_screen": "",
+            "character": "",
+            "emotion": "",
+            "background": "dream",
+            "next": 4
+          },
+        {
+            "id": 4,
+            "sentence": "Согласе…",
+            "character": "Олег",
+            "on_screen": "Oleg",
+            "emotion": "happy",
+            "background": "dream",
+            "next": 5
+          },
+        {
+            "id": 5,
+            "sentence": "*Звон будильника* Приснится же такое!",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 6
+          },
+        {
+            "id": 6,
+            "sentence": "Права была мать, нужно меньше смотреть сериалы перед сном.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 7
+          },
+        {
+            "id": 7,
+            "sentence": "В комнате тихо, только слабый свет ночной лампы напоминал о ленивом утре. Повернув голову, я услышала запах свежесваренного кофе, уже чувствуя, как усталость покидает мое тело.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 8
+          },
+        {
+            "id": 7,
+            "sentence": "Вставать определённо не хотелось, но перспектива пропустить очередную контрольную не очень радовала. Да и я уже договорился помочь Даните с выбором новой гитары на перемене.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 8
+          },
+        {
+            "id": 8,
+            "sentence": "Пора вставать.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "room",
+            "next": 300
+          },
+        {
+            "id": 9,
+            "sentence": "Когда я вышла из комнаты, мама с улыбкой встретила меня у стола.",
+            "character": "Саша Виноградова",
+            "on_screen": "Mom",
+            "emotion": "happy",
+            "background": "kitchen",
+            "next": 10
+          },
+        {
+            "id": 10,
+            "sentence": "Ну ты и соня, наконец-то проснулась!",
+            "character": "Мама",
+            "on_screen": "Mom",
+            "emotion": "happy",
+            "background": "kitchen",
+            "next": 11
+          },
+        {
+            "id": 11,
+            "sentence": "Папа просматривал ленту новостей, периодически комментируя события прошлого дня.",
+            "character": "Саша Виноградова",
+            "on_screen": "Dad",
+            "emotion": "surprise",
+            "background": "kitchen",
+            "next": 12
+          },
+        {
+            "id": 12,
+            "sentence": "Прикинь, опять проиграли, 3:2. Угораздило же за этих кривоногих болеть....",
+            "character": "Папа",
+            "on_screen": "Dad",
+            "emotion": "surprise",
+            "background": "kitchen",
+            "next": 13
+          },
+        {
+            "id": 13,
+            "sentence": "Не ворчи с утра пораньше.",
+            "character": "Мама",
+            "on_screen": "Mom",
+            "emotion": "happy",
+            "background": "kitchen",
+            "next": 14
+          },
+        {
+            "id": 14,
+            "sentence": "Сашенька, ешь блины скорее, а то в школу опоздаешь!",
+            "character": "Мама",
+            "on_screen": "Mom",
+            "emotion": "happy",
+            "background": "kitchen",
+            "next": 15
+          },
+        {
+            "id": 15,
+            "sentence": "Она подвинула ближе ко мне тарелку с горячими блинами. Их, конечно, вкуснее есть со сгущёнкой.",
+            "character": "Саша Виноградова",
+            "on_screen": "Mom",
+            "emotion": "happy",
+            "background": "kitchen",
+            "next": 16
+          },
+        {
+            "id": 16,
+            "sentence": "Я приобщилась к столу, чувствуя, как весь мир постепенно пробуждается вместе со мной.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "kitchen",
+            "next": 17
+          },
+        {
+            "id": 17,
+            "sentence": "Завтрак, а с ним и с самая приятная часть утра, закончился.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "kitchen",
+            "next": 19
+          },
+        {
+            "id": 18,
+            "sentence": "Завтрак, а с ним и с самая приятная часть утра, закончился.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "room",
+            "next": 19
+          },
+        {
+            "id": 19,
+            "sentence": "Блузки, юбки, брюки в шкафу: столько вещей, а что же сегодня надеть?..",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "room",
+            "next": 20
+          },
+        {
+            "id": 20,
+            "sentence": "Я оделась потеплее, погода ещё совсем не летняя. На улице уже не так холодно, но апрельский ветер всё ещё неприятно обдувал лицо.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "street",
+            "next": 21
+          },
+        {
+            "id": 21,
+            "sentence": "Настроение улучшается, когда в наушниках начинает играть тот самый трек. Конечно же, это Анна Асти - Царица!",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "street",
+            "next": 22
+          },
+        {
+            "id": 22,
+            "sentence": "На деревьях уже появились первые робкие почки, и даже самые утомлённые жители города начинали чувствовать власть весны. Даже старушки на лавочках казались более приветливыми, чем обычно.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "street",
+            "next": 23
+          },
+        {
+            "id": 23,
+            "sentence": "Мысли немного опережали течение времён года. Хотелось почувствовать летнее тепло и свободу, какая бывает только во время летних каникул.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "street",
+            "next": 24
+          },
+        {
+            "id": 24,
+            "sentence": "Вдруг кто-то схватил меня за плечо!",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 25
+          },
+        {
+            "id": 25,
+            "sentence": "Саша!",
+            "character": "кто-то",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 26
+          },
+        {
+            "id": 26,
+            "sentence": "Резкий вдох застрял где-то в горле.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 27
+          },
+        {
+            "id": 27,
+            "sentence": "Я обернулась.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 28
+          },
+        {
+            "id": 28,
+            "sentence": "Рядом стояла моя соседка по парте Полина. Она немного запыхалась, видно, заметила меня и пыталась догнать. Как всегда слишком энергичная для начала дня.",
+            "character": "Саша Виноградова",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "street",
+            "next": 29
+          },
+        {
+            "id": 29,
+            "sentence": "Дальше нам по пути, и у нас завязался небольшой разговор. Пришлось прервать прослушивание любимого трека.",
+            "character": "Саша Виноградова",
+            "on_screen": "Polina",
+            "emotion": "normal",
+            "background": "street",
+            "next": 30
+          },
+        {
+            "id": 30,
+            "sentence": "Проснись и пой! День обещает быть просто чудесным.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "street",
+            "background": "street",
+            "next": 31
+          },
+        {
+            "id": 31,
+            "sentence": "Кстатии, а ты сделала дз по матеше, задача №487 была сложная такая, а в конце учебника ответа на неё нет. Пришлось в ГДЗ лезть!",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "street",
+            "background": "street",
+            "next": 32
+          },
+        {
+            "id": 32,
+            "sentence": "Точно, матеша…",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "street",
+            "next": 33
+          },
+        {
+            "id": 33,
+            "sentence": "Все выходные я провела в Sims и мне было совсем не до уроков...",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "street",
+            "next": 34
+          },
+        {
+            "id": 34,
+            "sentence": "Жаль, Наталья Николаевна не ставит оценки за виртуальную архитектуру.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "street",
+            "next": 35
+          },
+        {
+            "id": 35,
+            "sentence": "Виноградова, вот мы с тобой уже почти год вместе сидим, а ты не меняешься.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "street",
+            "background": "street",
+            "next": 36
+          },
+        {
+            "id": 36,
+            "sentence": "Ладно, мне несложно. Возьми тетрадь, а перед уроком вернёшь.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "street",
+            "background": "street",
+            "next": 400
+          },
+        {
+            "id": 37,
+            "sentence": "Спасибо, с меня булочка в столовой!",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "street",
+            "next": 38
+          },
+        {
+            "id": 38,
+            "sentence": "За разговорами о домашке мы незаметно дошли до школы.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "street",
+            "next": 39
+          },
+        {
+            "id": 39,
+            "sentence": "За разговорами о домашке мы незаметно дошли до школы.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "street",
+            "next": 40
+          },
+        {
+            "id": 40,
+            "sentence": "В раздевалке Полина смешалась с толпой одноклассников и исчезла.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 500
+          },
+        {
+            "id": 41,
+            "sentence": "Оглянувшись, я не обнаружила в толпе ни Полины, ни ее ярко-красной сумки, обычно заметной издалека. ",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 42
+          },
+        {
+            "id": 42,
+            "sentence": "Сочувственно вздохнув, я направилась к кабинету в одиночестве, размышляя о том, что же приготовил мне сегодняшний день.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 44
+          },
+        {
+            "id": 43,
+            "sentence": "Я направилась к кабинету в одиночестве, размышляя, что же приготовил мне сегодняшний день.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 44
+          },
+        {
+            "id": 44,
+            "sentence": "В школьных коридорах витал запах мела, карандашей и сосисок в тесте из школьной столовой.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "school",
+            "next": 45
+          },
+        {
+            "id": 45,
+            "sentence": "Проходя мимо дверей классов, я становилась невольным свидетелей жизни других школьников.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "school",
+            "next": 46
+          },
+        {
+            "id": 46,
+            "sentence": "Среди малознакомых лиц я заметила его.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "school",
+            "next": 47
+          },
+        {
+            "id": 47,
+            "sentence": "Кирилл… Такой загадочный, такой красивый…",
+            "character": "Саша Виноградова",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 48
+          },
+        {
+            "id": 48,
+            "sentence": "Он с интересом наблюдал за воробьями, сидящими на карнизе окна. Я часто украдкой смотрела, как он рисует птиц на последних страницах своих тетрадей..",
+            "character": "Саша Виноградова",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 49
+          },
+        {
+            "id": 49,
+            "sentence": "Мы (пока) не были знакомы, но я часто заходила в его ТГ канал с рисунками, фотографиями и размышлениями.",
+            "character": "Саша Виноградова",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 50
+          },
+        {
+            "id": 50,
+            "sentence": "Страшно признаться, но один из его нарисованных воробьёв поселился у меня дома на рабочем столе ноутбука. Рисунки Кирилла совершенно точно особенные.",
+            "character": "Саша Виноградова",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 51
+          },
+        {
+            "id": 51,
+            "sentence": "Невольно я замедлилась возле его класса и в какой-то момент наши взгляды встретились.",
+            "character": "Саша Виноградова",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 52
+          },
+        {
+            "id": 51,
+            "sentence": "Я сразу сделала вид, что совершенно не смотрю в его сторону, нелепо потупив взор.",
+            "character": "Саша Виноградова",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 52
+          },
+        {
+            "id": 52,
+            "sentence": "Заметил ли он, что я смотрю на него? Наверное, пялятся на незнакомых парней только “странные”...",
+            "character": "Саша Виноградова",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 53
+          },
+        {
+            "id": 53,
+            "sentence": "Неловкость и смятение начали вгонять меня в краску, а руки сами потянулись к волосам..",
+            "character": "Саша Виноградова",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 54
+          },
+        {
+            "id": 54,
+            "sentence": "Я поспешила в свой класс, где вот-вот должна была начаться математика.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "classroom",
+            "next": 55
+          },
+        {
+            "id": 55,
+            "sentence": "До начала первого урока оставалась всего пара-тройка минут, поэтому я как никогда быстро забежала в кабинет, раскрыла тетрадь по математике и начала переносить в неё Полинино решение под непрекращающийся гул голосов одноклассников.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "classroom",
+            "next": 56
+          },
+        {
+            "id": 56,
+            "sentence": "Не понимаю, что она там написала, но выглядит правильно. Да, точно правильно",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "classroom",
+            "next": 57
+          },
+        {
+            "id": 57,
+            "sentence": "В любой другой день я бы с радостью обсудила с одноклассниками прошедшие выходные, но сейчас нельзя было медлить - на горизонте маячила двойка за домашнюю работу. Нельзя расстраивать маму плохими оценками!",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "classroom",
+            "next": 58
+          },
+        {
+            "id": 58,
+            "sentence": "Увлекшись заданием, я и не заметила, как шум в кабинете совсем затих. Даже самые задиры, перестал громко выкрикивать шутки.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "classroom",
+            "next": 59
+          },
+        {
+            "id": 59,
+            "sentence": "Обернувшись, я поняла, что Наталья Николаевна, наша учительница по математике, смотрит прямо на меня. И смотрит весьма недобро: она заметила, как я списываю домашнее задание.",
+            "character": "Саша Виноградова",
+            "on_screen": "NN",
+            "emotion": "angry",
+            "background": "classroom",
+            "next": 60
+          },
+        {
+            "id": 60,
+            "sentence": "Теперь и мне, и соседке по парте несдобровать. Классная руководительница взглянула на обложку Полининой тетради и равнодушно бросила",
+            "character": "Саша Виноградова",
+            "on_screen": "NN",
+            "emotion": "angry",
+            "background": "classroom",
+            "next": 61
+          },
+        {
+            "id": 61,
+            "sentence": "И Виноградова, и Третьякова получают два за домашнюю работу. Поощрять списывание я не буду.",
+            "character": "Наталья Николавна",
+            "on_screen": "NN",
+            "emotion": "angry",
+            "background": "classroom",
+            "next": 62
+          },
+        {
+            "id": 62,
+            "sentence": "Я обернулась и увидела испуганное лицо Полины, застывшей в дверях.",
+            "character": "Саша Виноградова",
+            "on_screen": "Polina",
+            "emotion": "surprise",
+            "background": "classroom",
+            "next": 63
+          },
+        {
+            "id": 63,
+            "sentence": "Словно олень в свете фар она застыла в ожидании моего ответа Наталье Николаевне.",
+            "character": "Саша Виноградова",
+            "on_screen": "Polina",
+            "emotion": "surprise",
+            "background": "classroom",
+            "next": 600
+          },
+        {
+            "id": 64,
+            "sentence": "Я сама взяла её тетрадь с парты, Полина не разрешала мне у неё списывать! Она здесь ни при че",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 65
+          },
+        {
+            "id": 65,
+            "sentence": "Ну-ну. Третьякова, в следующий раз лучше следи за своими вещами. Два я тебе ставить не буду. Сегодня разберем новую тему…",
+            "character": "Саша Виноградова",
+            "on_screen": "NN",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 66
+          },
+        {
+            "id": 66,
+            "sentence": "Эй, Полина, с такими друзьями и враги не нужны, да?",
+            "character": "Виктор",
+            "on_screen": "Victor",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 67
+          },
+        {
+            "id": 67,
+            "sentence": "Ох уж этот едкий голос со второй парты. Словно мир рухнет без его гаденьких комментариев. Витя уже несколько лет носит почётный титул главной гадюки класса.",
+            "character": "Саша Виноградова",
+            "on_screen": "Victor",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 68
+          },
+        {
+            "id": 68,
+            "sentence": "Не проходит и дня, чтобы он не отпустил какую-нибудь колкость или не перемыл кому-нибудь кости.",
+            "character": "Саша Виноградова",
+            "on_screen": "Victor",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 69
+          },
+        {
+            "id": 69,
+            "sentence": "Единственная, кто мог противостоять его подколам, - это моя лучшая подруга Данита, но её, как назло, сегодня не было в школе.",
+            "character": "Саша Виноградова",
+            "on_screen": "Victor",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 70
+          },
+        {
+            "id": 70,
+            "sentence": "Звонок прозвенел, и голоса в кабинете начали потихоньку затихать, лишь тихие шаги опаздывающих ребят доносились из коридора.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "classroom",
+            "next": 71
+          },
+        {
+            "id": 71,
+            "sentence": "Класс,  у меня есть для вас небольшое объявление. Как вы знаете, скоро нашему классу предстоит экскурсионная поездка в Санкт-Петербург.",
+            "character": "Наталья Николаевна",
+            "on_screen": "NN",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 72
+          },
+        {
+            "id": 72,
+            "sentence": "Для оформления билетов мне понадобятся ваши данные. Я планировала собрать сведения на родительском собрании, но до него еще две недели, а документы нужны уже сегодня.",
+            "character": "Наталья Николаевна",
+            "on_screen": "NN",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 73
+          },
+        {
+            "id": 73,
+            "sentence": "Я надеюсь на вашу сознательность! Отправьте все необходимое мне в…",
+            "character": "Наталья Николаевна",
+            "on_screen": "NN",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 74
+          },
+        {
+            "id": 74,
+            "sentence": " Толчок в плечо заставил меня отвлечься от слов Натальи Николаевной",
+            "character": "Саша Виноградова",
+            "on_screen": "NN",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 75
+          },
+        {
+            "id": 75,
+            "sentence": "Спасибо, что выручила, Саша! - прошептала Полина с улыбкой. - Если бы не твоя находчивость, сидела бы сейчас с двойкой. Но в следующий раз осторожнее, а то больше не дам у меня списывать!",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "happy",
+            "background": "classroom",
+            "next": 76
+          },
+        {
+            "id": 76,
+            "sentence": "Да ладно тебе, это было честно. Ты не должна была за меня получать!",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 90
+          },
+        {
+            "id": 77,
+            "sentence": "Какая разница, откуда списывать! Половина класса списала с ГДЗ, даже Полина!",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 78
+          },
+        {
+            "id": 78,
+            "sentence": "Даа? Ну чтож, честность это похвально, но тогда проведем сегодня самостоятельную работу, посмотрим, что вы без списывания можете.",
+            "character": "Саша Виноградова",
+            "on_screen": "NN",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 79
+          },
+        {
+            "id": 79,
+            "sentence": "Ну, спасибо, Виноградова, теперь из-за тебя все отдуваться будем. Без тебя ж контрольных нам не хватало.",
+            "character": "Виктор",
+            "on_screen": "Victor",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 80
+          },
+        {
+            "id": 80,
+            "sentence": "Ох уж этот едкий голос со второй парты. Словно мир рухнет без его гаденьких комментариев. Витя уже несколько лет носит почётный титул главной гадюки класса.",
+            "character": "Саша Виноградова",
+            "on_screen": "Victor",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 81
+          },
+        {
+            "id": 81,
+            "sentence": "Не проходит и дня, чтобы он не отпустил какую-нибудь колкость или не перемыл кому-нибудь кости.",
+            "character": "Саша Виноградова",
+            "on_screen": "Victor",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 82
+          },
+        {
+            "id": 82,
+            "sentence": "Единственная, кто мог противостоять его подколам, - это моя лучшая подруга Данита, но её, как назло, сегодня не было в школе.",
+            "character": "Саша Виноградова",
+            "on_screen": "Victor",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 83
+          },
+        {
+            "id": 83,
+            "sentence": "Звонок прозвенел, и голоса в кабинете начали потихоньку затихать, лишь тихие шаги опаздывающих ребят доносились из коридора.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "classroom",
+            "next": 84
+          },
+        {
+            "id": 84,
+            "sentence": "Класс,  у меня есть для вас небольшое объявление. Как вы знаете, скоро нашему классу предстоит экскурсионная поездка в Санкт-Петербург.",
+            "character": "Наталья Николаевна",
+            "on_screen": "NN",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 85
+          },
+        {
+            "id": 85,
+            "sentence": "Для оформления билетов мне понадобятся ваши данные. Я планировала собрать сведения на родительском собрании, но до него еще две недели, а документы нужны уже сегодня.",
+            "character": "Наталья Николаевна",
+            "on_screen": "NN",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 86
+          },
+        {
+            "id": 86,
+            "sentence": "Я надеюсь на вашу сознательность! Отправьте все необходимое мне в…",
+            "character": "Наталья Николаевна",
+            "on_screen": "NN",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 87
+          },
+        {
+            "id": 87,
+            "sentence": " Толчок в плечо заставил меня отвлечься от слов Натальи Николаевной",
+            "character": "Саша Виноградова",
+            "on_screen": "NN",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 88
+          },
+        {
+            "id": 88,
+            "sentence": "Ну вот зачем ты сказала всё( Меня теперь родители ругать будут. Никогда тебе больше списывать не дам.",
+            "character": "Полина",
+            "on_screen": "Polina",
+            "emotion": "sad",
+            "background": "classroom",
+            "next": 89
+          },
+        {
+            "id": 89,
+            "sentence": "Прости пожалуйста, я что-то растерялась.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "classroom",
+            "next": 90
+          },
+        {
+            "id": 90,
+            "sentence": "Тишина на задних партах! - Наталья Николаевна недовольно оглядела класс, гул затих, и урок начался.",
+            "character": "Наталья Николаевна",
+            "on_screen": "NN",
+            "emotion": "angry",
+            "background": "classroom",
+            "next": 91
+          },
+        {
+            "id": 91,
+            "sentence": "Забежав домой после школы, я первым делом отправилась в свою комнату, чтобы сфотографировать нужные документы и отправить их Наталье Николаевне.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 92
+          },
+        {
+            "id": 92,
+            "sentence": "Какие документы? Куда отправить? Ничего не припоминаю!",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 93
+          },
+        {
+            "id": 93,
+            "sentence": " Мысли о Кирилле, Полине и математике клубились в голове и не давали сосредоточиться на решении насущных проблем.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 94
+          },
+        {
+            "id": 94,
+            "sentence": "Так, что тут? Справка от врача, разрешение на поездку, свидетельство о рождении, паспорт мамы..",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 95
+          },
+        {
+            "id": 95,
+            "sentence": "Добавлю ещё свой номер и адрес для связи, мало ли.. пригодится!",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 96
+          },
+        {
+            "id": 96,
+            "sentence": "Файлы быстро загрузились в чат 8 “Б”.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 97
+          },
+        {
+            "id": 97,
+            "sentence": " От одноклассников посыпались смайлики смеха.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 98
+          },
+        {
+            "id": 98,
+            "sentence": "Ты бы ещё свои детские фотки нам отправила, ахаа!",
+            "character": "Виктор",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 99
+          },
+        {
+            "id": 99,
+            "sentence": "Саша, пожалуйста, перешли фотографии мне в личные сообщения, как я и просила сделать изначально!",
+            "character": " Наталья Николаевна",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 100
+          },
+        {
+            "id": 100,
+            "sentence": "Да что же сегодня за день такой!",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 101
+          },
+        {
+            "id": 101,
+            "sentence": " После провала с документами появляться в школе совсем не хотелось, будни протекали медленно словно река из киселя.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "class",
+            "next": 102
+          },
+        {
+            "id": 102,
+            "sentence": " Да и Наталья Николавна в личной беседе потом объяснила, что в документах были мои ПЕРСОНАЛЬНЫЕ ДАННЫЕ , а некоторые люди могут их использовать для разных противозаконных дел.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "class",
+            "next": 103
+          },
+        {
+            "id": 103,
+            "sentence": " Единственной отрадой были занятия по гитаре после школы.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "guitar",
+            "next": 104
+          },
+        {
+            "id": 104,
+            "sentence": "Мы с Даните частенько сидели до вечера в Школе искусств, сочиняя мелодии для нашей группы.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "guitar",
+            "next": 105
+          },
+        {
+            "id": 105,
+            "sentence": "Вот найдём барабанщика и кааак заиграем.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "guitar",
+            "next": 106
+          },
+        {
+            "id": 106,
+            "sentence": "Справляться с печалями школьной жизни помогали и мысли о Кирилле, однако неделя готовила новые любовные переживания…",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "class",
+            "next": 107
+          },
+        {
+            "id": 107,
+            "sentence": "Совершенно неожиданно, он сама подошел ко мне на большой перемене в четверг, когда мы с Данитой обсуждали, кто же из пингвинов Мадагаскара заслуживает большего внимания.",
+            "character": "Саша Виноградова",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "class",
+            "next": 108
+          },
+        {
+            "id": 108,
+            "sentence": "Прости, ты же Саша? Можешь, пожалуйста перестать мне в ВК такие вещи писать. Ты ненормальная совсем или подшутить так думала?!",
+            "character": "Кирилл",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 109
+          },
+        {
+            "id": 109,
+            "sentence": "Его нахмуренные брови не сулили мне ничего хорошего",
+            "character": "Саша Виноградова",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 110
+          },
+        {
+            "id": 109,
+            "sentence": "Здравствуй, Кирилл. Ты о чём? Я тебе никогда не писала.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surpise",
+            "background": "school",
+            "next": 110
+          },
+        {
+            "id": 110,
+            "sentence": "Смесь недоумения и раздражения мгновенно отразились на его лице.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "school",
+            "next": 111
+          },
+        {
+            "id": 111,
+            "sentence": "Так и думал. В ВК ты вон какой смелая, подкатываешь мутно, а в жизни прикидываешься? Что, духу не хватает признаться?",
+            "character": "Кирилл",
+            "on_screen": "Kirill",
+            "emotion": "angry",
+            "background": "school",
+            "next": 112
+          },
+        {
+            "id": 112,
+            "sentence": "Вот, смотри, твоя фотография, имя и фамилия тоже, да и всё остальное.",
+            "character": "Кирилл",
+            "on_screen": "Kirill",
+            "emotion": "angry",
+            "background": "school",
+            "next": 113
+          },
+        {
+            "id": 113,
+            "sentence": " Кирилл показал мне профиль в социальной сети, где были мои фотографии, дата и место рождения, домашний адрес и номер телефона.",
+            "character": "Саша Виноградова",
+            "on_screen": "Kirill",
+            "emotion": "angry",
+            "background": "school",
+            "next": 114
+          },
+        {
+            "id": 114,
+            "sentence": "Но это совсем не я……",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 115
+          },
+        {
+            "id": 115,
+            "sentence": "Однако интернет-близнец не исчез с экрана после этих “волшебных” слов.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "school",
+            "next": 116
+          },
+        {
+            "id": 116,
+            "sentence": " В диалог вмешалась подруга, чувствуя мою неуверенность и волнение.",
+            "character": "Саша Виноградова",
+            "on_screen": "Danita",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 117
+          },
+        {
+            "id": 117,
+            "sentence": "Кирилл, дорогой, да не было никогда у неё странички в вк - это ж прошлый век, все уже в тг сидят!",
+            "character": "Данита",
+            "on_screen": "Danita",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 118
+          },
+        {
+            "id": 118,
+            "sentence": "А, и ты с ней заодно. Вместе придумывали?",
+            "character": "Кирилл",
+            "on_screen": "Kirill",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 119
+          },
+        {
+            "id": 119,
+            "sentence": "Но…",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 120
+          },
+        {
+            "id": 120,
+            "sentence": "Но Кирилл уже испарился из поля зрения. Видимо ушел в столовую, оставив нас с неразгаданной тайной.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "school",
+            "next": 121
+          },
+        {
+            "id": 121,
+            "sentence": "Так, а теперь признавайся! Всё же решила ему написать?",
+            "character": "Данита",
+            "on_screen": "Danita",
+            "emotion": "happy",
+            "background": "school",
+            "next": 122
+          },
+        {
+            "id": 122,
+            "sentence": " Её глаза сверкнули, когда она задал вопрос. Конечно, она давно догадалась о моей тайной симпатии.",
+            "character": "Cаша Виноградова",
+            "on_screen": "Danita",
+            "emotion": "happy",
+            "background": "school",
+            "next": 123
+          },
+        {
+            "id": 123,
+            "sentence": "Если бы решилась…  Это точно не я!",
+            "character": "Cаша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "sad",
+            "background": "school",
+            "next": 124
+          },
+        {
+            "id": 124,
+            "sentence": "Тогда кто? Райан Гослинг?",
+            "character": "Данита",
+            "on_screen": "Danita",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 125
+          },
+        {
+            "id": 125,
+            "sentence": "Сомневаюсь. Может на самой страничке будет больше ответов?",
+            "character": "Cаша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "sad",
+            "background": "school",
+            "next": 126
+          },
+        {
+            "id": 126,
+            "sentence": "Ну давай поищем! А то украдёт сердце Кирилла твоего еще.",
+            "character": "Данита",
+            "on_screen": "Danita",
+            "emotion": "surprise",
+            "background": "school",
+            "next": 127
+          },
+        {
+            "id": 127,
+            "sentence": "Весь школьный день пролетел в тщетных раздумьях. Данита, верная подруга, непрестанно подбрасывал все новых подозреваемых даже когда звонок с последнего урока уже прозвенел, и ребята отправились к выходу из школы.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "yard",
+            "next": 128
+          },
+        {
+            "id": 128,
+            "sentence": "Слушай, а может это из младшеклассников кто? Ну тоже Кирилл твой понравился, а от себя стыдно писать.",
+            "character": "Данита",
+            "on_screen": "Danita",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 129
+          },
+        {
+            "id": 129,
+            "sentence": "Да ерунда, они и слов-то таких не знают.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "yard",
+            "next": 130
+          },
+        {
+            "id": 130,
+            "sentence": "Ответа подруги я так и не дождалась: мы застыли в недоумении прямо на школьном крыльце, перекрыв дорогу веренице пятиклашек.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "yard",
+            "next": 131
+          },
+        {
+            "id": 131,
+            "sentence": "Все произошло за секунду, но эту картину я запомню надолго.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "yard",
+            "next": 132
+          },
+        {
+            "id": 132,
+            "sentence": "Даша… Ну конечно же это была она. Та самая заноза из богатой семьи, которую я уже много лет на дух не переношу. Именно она, подбежав к моему Кириллу неожиданно поцеловала его в щеку.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "yard",
+            "next": 133
+          },
+        {
+            "id": 133,
+            "sentence": " Парень не успел даже никак отреагировать, как она скрылась из его вида, направившись ко входу в школу.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "yard",
+            "next": 134
+          },
+        {
+            "id": 134,
+            "sentence": "Видимо, мой потерянный вид выдал меня с потрохами: проходя мимо нас, Даша улыбнулась и подмигнула мне.",
+            "character": "Саша Виноградова",
+            "on_screen": "Dasha",
+            "emotion": "happy",
+            "background": "yard",
+            "next": 135
+          },
+        {
+            "id": 135,
+            "sentence": "Я тут же поняла, что означает этот взгляд. Аноним был разоблачён. Война была объявлена!",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "yard",
+            "next": 136
+          },
+        {
+            "id": 136,
+            "sentence": " Данита тоже все поняла и была в ярости.",
+            "character": "Саша Виноградова",
+            "on_screen": "Danita",
+            "emotion": "angry",
+            "background": "yard",
+            "next": 137
+          },
+        {
+            "id": 137,
+            "sentence": "Это точно был она! Она, я тебе говорю!",
+            "character": "Данита",
+            "on_screen": "Danita",
+            "emotion": "angry",
+            "background": "yard",
+            "next": 138
+          },
+        {
+            "id": 138,
+            "sentence": "Она тебя всегда терпеть не могла, а теперь точно решилась на какую-нибудь подставу.",
+            "character": "Данита",
+            "on_screen": "Danita",
+            "emotion": "angry",
+            "background": "yard",
+            "next": 139
+          },
+        {
+            "id": 139,
+            "sentence": "Только сейчас я отошла от шока и смогла сказать хоть что-то.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "angry",
+            "background": "yard",
+            "next": 140
+          },
+        {
+            "id": 140,
+            "sentence": "Знаешь, Я это так не оставлю. У меня есть план…",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "angry",
+            "background": "yard",
+            "next": 700
+          },
+        {
+            "id": 141,
+            "sentence": "Она же на танцы ходит в центре. Может, подкараулим её там, обсудим, что поступать так - нехорошо. Да и волос ей поубавим...",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "angry",
+            "background": "yard",
+            "next": 142
+          },
+        {
+            "id": 142,
+            "sentence": "На занятии по гитаре мы сидели как на иголках, постоянно отвлекаясь и не попадая в ноты.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "guitar",
+            "next": 143
+          },
+        {
+            "id": 143,
+            "sentence": "Девчата, вы сегодня сами не свои. Скоро отчетный концерт, а вы в своих мыслях. Давайте еще раз и с самого начала!",
+            "character": "Олег",
+            "on_screen": "Oleg",
+            "emotion": "sad",
+            "background": "guitar",
+            "next": 144
+          },
+        {
+            "id": 144,
+            "sentence": "Ничего удивительного, до этого в подобных “разборках” никому из нас участвовать не приходилось.",
+            "character": "Cаша Виноградова",
+            "on_screen": "Oleg",
+            "emotion": "sad",
+            "background": "guitar",
+            "next": 145
+          },
+        {
+            "id": 145,
+            "sentence": "Решение было принято: после тренировки по танцам мы поймаем Дашу.",
+            "character": "Cаша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "guitar",
+            "next": 147
+          },
+        {
+            "id": 147,
+            "sentence": " Но меня мучали сомнения. Допустимо ли применять насилие? Можно ли им что-то решить? Может Кириллу действительно нравится Даша?",
+            "character": "Cаша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "guitar",
+            "next": 800
+          },
+        {
+            "id": 148,
+            "sentence": "Отступать некуда, Сань! Даша не сомневалась, когда решила тебя подставить.",
+            "character": "Данита",
+            "on_screen": "Danita",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 150
+          },
+        {
+            "id": 149,
+            "sentence": "Хотя, чего сомневаться! Когда Даша меня подставила, у него сомнений не было.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 150
+          },
+        {
+            "id": 150,
+            "sentence": "После занятия мы направились прямо к спорткомплексу. Затаившись за углом, мы дождались Даши. Она вышла одна, неся только спортивную сумку. Видимо, и в секции друзей у неё было не особо много.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "street",
+            "next": 151
+          },
+        {
+            "id": 151,
+            "sentence": "А вот и она! Момент настал!",
+            "character": "Данита",
+            "on_screen": "Danita",
+            "emotion": "angry",
+            "background": "street",
+            "next": 152
+          },
+        {
+            "id": 152,
+            "sentence": "Эй, Дашка!",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "angry",
+            "background": "street",
+            "next": 153
+          },
+        {
+            "id": 153,
+            "sentence": "Вам чего?",
+            "character": "Даша",
+            "on_screen": "Dasha",
+            "emotion": "normal",
+            "background": "street",
+            "next": 154
+          },
+        {
+            "id": 154,
+            "sentence": "Видимо, по нашему виду она все поняла и без слов.",
+            "character": "Саша Виноградова",
+            "on_screen": "Dasha",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 155
+          },
+        {
+            "id": 155,
+            "sentence": "Я знаю, что это ты меня подставила перед Кириллом. Думал, я не захочу рассчитаться?",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "angry",
+            "background": "street",
+            "next": 156
+          },
+        {
+            "id": 156,
+            "sentence": "В глазах Даши мелькнул испуг.",
+            "character": "Саша Виноградова",
+            "on_screen": "Dasha",
+            "emotion": "surprise",
+            "background": "street",
+            "next": 157
+          },
+        {
+            "id": 157,
+            "sentence": "Только тронь меня! В школе тебе не жить.",
+            "character": "Даша",
+            "on_screen": "Dasha",
+            "emotion": "normal",
+            "background": "street",
+            "next": 158
+          },
+        {
+            "id": 158,
+            "sentence": "Мы двинулись к одноклассницей, твердо решив окончательно её. Та попятилась к стене дома и, увернувшись, бросилась бежать за угол.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "angry",
+            "background": "street",
+            "next": 159
+          },
+        {
+            "id": 159,
+            "sentence": "Удали страницу, или вся школа будет знать, что ты струсила!",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "angry",
+            "background": "street",
+            "next": 160
+          },
+        {
+            "id": 160,
+            "sentence": "Мы довольно хохотали всю дорогу до дома, и, даже попрощавшись, каждый шел, вспоминая о собственной смелости, ещё не зная, чем это будет грозить в дальнейшем.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "street",
+            "next": 161
+          },
+        {
+            "id": 161,
+            "sentence": "Рано утром, перед школой, я написала Даните с просьбой проверить, исчезла ли страница в ВК.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 162
+          },
+        {
+            "id": 162,
+            "sentence": "Она удалила страницу, у нас все получилось! Кирилл твой ;)",
+            "character": "Данита",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 163
+          },
+        {
+            "id": 163,
+            "sentence": "Всю дорогу до школы я раздумывал, как же объяснить Кириллу, что произошло, и загладить вину за сетевого двойника. Я в деталях представляла наш разговор и надеялась, что, все поняв, он сам проявит инициативу и мы продолжим общаться.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 164
+          },
+        {
+            "id": 164,
+            "sentence": "Но, видимо, весь запас счастливых случайностей был уже израсходован во время вчерашних разборок: Кирилл действительно подошел ко мне первым, но с совсем недобрым выражением лица.",
+            "character": "Саша Виноградова",
+            "on_screen": "Kirill",
+            "emotion": "angry",
+            "background": "school",
+            "next": 165
+          },
+        {
+            "id": 165,
+            "sentence": "Сначала пишешь всякое, потом людей пытаешься покалечить? Больше не подходите ко мне. Ни ты, ни эта подруга. И писать мне не смей.",
+            "character": "Кирилл",
+            "on_screen": "Kirill",
+            "emotion": "angry",
+            "background": "school",
+            "next": 167
+          },
+        {
+            "id": 167,
+            "sentence": "Подожди, все было не так!",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "sad",
+            "background": "school",
+            "next": 168
+          },
+        {
+            "id": 168,
+            "sentence": "Но его уже и след простыл.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "school",
+            "next": 169
+          },
+        {
+            "id": 169,
+            "sentence": "Нужно будет пытаться как-то избавиться от клейма пацанки и хулиганки, Но это будет очень сложно осуществить…",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "school",
+            "next": -1
+          },
+        {
+            "id": 170,
+            "sentence": "Сегодня на занятиях по гитаре спросим у Олега, преподавателя. Он всегда давал крутые советы. Может, есть шанс заблокировать фейковую страницу и доказать Кириллу, что это был не я",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "yard",
+            "next": 172
+          },
+        {
+            "id": 171,
+            "sentence": "Сегодня на занятиях по гитаре спросим у Олега, преподавателя. Он всегда давал крутые советы. Может, есть шанс заблокировать фейковую страницу и доказать Кириллу, что это был не я",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "street",
+            "next": 172
+          },
+        {
+            "id": 172,
+            "sentence": "На занятии по гитаре мы сидели как на иголках, постоянно отвлекаясь и не попадая в ноты.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "guitar",
+            "next": 173
+          },
+        {
+            "id": 173,
+            "sentence": "Девчата, вы сегодня сами не свои. Скоро отчетный концерт, а вы в своих мыслях. Давайте еще раз и с самого начала!",
+            "character": "Олег",
+            "on_screen": "Oleg",
+            "emotion": "sad",
+            "background": "guitar",
+            "next": 174
+          },
+        {
+            "id": 174,
+            "sentence": "Нам оставалось лишь вздохнуть.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "surprise",
+            "background": "guitar",
+            "next": 175
+          },
+        {
+            "id": 175,
+            "sentence": "Да нам сегодня совсем не до музыки!",
+            "character": "Данита",
+            "on_screen": "Danita",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 176
+          },
+        {
+            "id": 176,
+            "sentence": "Мы как раз хотели спросить у тебя совет.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 177
+          },
+        {
+            "id": 177,
+            "sentence": "Спросить совет у Олега было правильным решением, ведь раньше работал в юридической конторе консультантом.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 178
+          },
+        {
+            "id": 178,
+            "sentence": "Я частенько наблюдала, как после наших занятий он доставал из ящика стола какие-то документы и внимательно их читал.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 179
+          },
+        {
+            "id": 179,
+            "sentence": "Но сам он говорил, что душа в музыке, а не в каких-то “бумажках”..",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 180
+          },
+        {
+            "id": 180,
+            "sentence": "Обращайтесь, конечно, все равно с занятием у нас сегодня не клеится. Но в следующий раз отработаем по полной программе!",
+            "character": "Олег",
+            "on_screen": "Oleg",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 181
+          },
+        {
+            "id": 181,
+            "sentence": "Что делать, если кто-то украл твои персональные данные?",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 182
+          },
+        {
+            "id": 182,
+            "sentence": "Еще и выдает себя за другого человека на странице в ВК и пишет всякие гадости…",
+            "character": "Данита",
+            "on_screen": "Danita",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 183
+          },
+        {
+            "id": 183,
+            "sentence": "Еще и выдает себя за другого человека на странице в ВК и пишет всякие гадости…",
+            "character": "Данита",
+            "on_screen": "Danita",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 184
+          },
+        {
+            "id": 184,
+            "sentence": "А теперь всё то же самое, только по порядку.",
+            "character": "Олег",
+            "on_screen": "Oleg",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 185
+          },
+        {
+            "id": 185,
+            "sentence": "После недолгого рассказа Олег призадумался, как же лучше поступить.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 186
+          },
+        {
+            "id": 186,
+            "sentence": "В случае обмана на платформе ВКонтакте важно знать, к кому обратиться, чтобы найти помощь и решить проблему.",
+            "character": "Олег",
+            "on_screen": "Oleg",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 187
+          },
+        {
+            "id": 187,
+            "sentence": "уществуют несколько возможностей для этого:",
+            "character": "Олег",
+            "on_screen": "Oleg",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 188
+          },
+        {
+            "id": 188,
+            "sentence": "Связаться с поддержкой ВКонтакте. Для этого нужно открыть меню на главной странице, выбрать раздел «Помощь» и описать ситуацию;",
+            "character": "Олег",
+            "on_screen": "Oleg",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 189
+          },
+        {
+            "id": 189,
+            "sentence": "Обратиться в правоохранительные органы.",
+            "character": "Олег",
+            "on_screen": "Oleg",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 190
+          },
+        {
+            "id": 190,
+            "sentence": "Мы попытались выполнить советы наставника в точности: обратились в поддержку, описали ситуацию.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "guitar",
+            "next": 191
+          },
+        {
+            "id": 191,
+            "sentence": "Было немного необычно общаться с представителем поддержки, но Олег заранее уверил нас, что я имею полное право защищать свои данные всеми законными способами.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 192
+          },
+        {
+            "id": 192,
+            "sentence": "Также он рассказал нам, куда можно обратиться, если в поддержке приложения откажется нам помогать, поэтому мы были спокойны.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 193
+          },
+        {
+            "id": 193,
+            "sentence": "Через несколько часов страница моего злого интернет-близнеца была удалена.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 194
+          },
+        {
+            "id": 194,
+            "sentence": "Закрывая ноутбук, я вздохнула с облегчением.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 195
+          },
+        {
+            "id": 195,
+            "sentence": "Наконец-то Кирилл перестанет думать, что я какая-то интернет маньячка.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "computer",
+            "next": 196
+          },
+        {
+            "id": 196,
+            "sentence": "Приятные чудеса и не думали заканчиваться.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "guitar",
+            "next": 197
+          },
+        {
+            "id": 197,
+            "sentence": "Уже на следующий день Кирилл сам (наконец-то!) подошел ко мне на перемене.",
+            "character": "Саша Виноградова",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 198
+          },
+        {
+            "id": 198,
+            "sentence": "Саша, я заметил, что страницу в вк заблокировали…",
+            "character": "Кирилл",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 199
+          },
+        {
+            "id": 199,
+            "sentence": "а,там были использованы мои данные, которые я случайно отправила в чат класса. Кажется, её вела Даша.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "school",
+            "next": 200
+          },
+        {
+            "id": 200,
+            "sentence": "Я так и думала, всё же я никогда не замечал за тобой такого поведения. Прости, что так нагнал на тебя тогда.",
+            "character": "Кирилл",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 201
+          },
+        {
+            "id": 201,
+            "sentence": "Мне просто очень понравилось твоё выступление на отчётном концерте Школы искусств. Я написал, чтобы узнать название мелодии.",
+            "character": "Кирилл",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 202
+          },
+        {
+            "id": 202,
+            "sentence": "Тогда напиши мне в тг, там точно я сижу, а не какие-то анонимы.",
+            "character": "Саша Виноградова",
+            "on_screen": "Sasha_f",
+            "emotion": "normal",
+            "background": "school",
+            "next": 203
+          },
+        {
+            "id": 203,
+            "sentence": "Я протянула ему телефон с QR-кодом от своего профиля.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "school",
+            "next": 204
+          },
+        {
+            "id": 204,
+            "sentence": "Он улыбнулся и отсканировал его. В уведомлениях сразу появилось приветствие из чата с Кириллом.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "school",
+            "next": 205
+          },
+        {
+            "id": 205,
+            "sentence": "Спишемся, сашабулочка99!",
+            "character": "Кирилл",
+            "on_screen": "Kirill",
+            "emotion": "normal",
+            "background": "school",
+            "next": 206
+          },
+        {
+            "id": 206,
+            "sentence": "Сашабулочка99 - этот дурацкий ник придумала Данита, когда мы бездельничали на занятиях.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "school",
+            "next": 207
+          },
+        {
+            "id": 207,
+            "sentence": "И пусть нелепое прозвище вогнало меня в краску, я была так рада, что вся эта ситуация с фейковым аккаунтом разрешилась.",
+            "character": "Саша Виноградова",
+            "on_screen": "",
+            "emotion": "",
+            "background": "school",
+            "next": -1
+          },
+        {
+            "id": 208,
+            "next": 300,
+            "on_screen": "",
+            "background": "room",
+            "character": "Саша Виноградова",
+            "emotion": "",
+            "sentence": "О, Фидес у меня снова у меня в комнате спал. Такой он ласковый, такой мягкий и теплый. Очень его люблю, хоть и кусается иногда."
+        },
+        {
+            "id": 209,
+            "next": 300,
+            "on_screen": "",
+            "background": "room",
+            "character": "Саша Виноградова",
+            "emotion": "",
+            "sentence": "Трунь-трунь"
+        },
+        {
+            "id": 210,
+            "next": 300,
+            "on_screen": "",
+            "background": "room",
+            "character": "Саша Виноградова",
+            "emotion": "",
+            "sentence": "Плакат с человеком-пауком. Вот бы поиграть в Spider-Man 2 на пятой плойке, жаль в нашем компьютерном клубе её нет."
+        },
+]
+
+

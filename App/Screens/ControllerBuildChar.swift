@@ -7,6 +7,8 @@
 
 import UIKit
 
+var selectedGender: String = "Мужской"
+
 class ControllerBuildChar: UIViewController {
     
     let birthDateKey = "selectedBirthDate"
@@ -128,8 +130,7 @@ class ControllerBuildChar: UIViewController {
     }
     
     @objc func saveGender(_ sender: UISegmentedControl) {
-        let selectedGender = sender.selectedSegmentIndex
-        UserDefaults.standard.set(selectedGender, forKey: genderKey)
+        selectedGender = sender.selectedSegmentIndex == 0 ? "Мужской" : "Женский"
     }
     
     @objc func datePickerValueChanged(_ sender: UIDatePicker) { //нет обработки не введенного возраста
@@ -141,7 +142,14 @@ class ControllerBuildChar: UIViewController {
         self.dismiss(animated: true, completion: nil)
     }
     
-    @objc func nextButtonTapped() { //сделать переход на начало первой главы
-        print("Next Button Tapped")
+    @objc func nextButtonTapped() {
+        saveData.numChapter = 1
+        saveData.numScene = 0
+        fight = true
+        not_peace = false
+        director = false
+        let vc = ControllerChapter1(sceneManager: SceneManager.shared)
+        vc.modalPresentationStyle = .fullScreen
+        self.present(vc, animated: true, completion: nil)
     }
 }
